@@ -107,20 +107,4 @@ This project demonstrates proficiency in:
 - Cloud synchronization
 - Mobile app integration
 
-## Screenshots
 
-[Note: Add screenshots of the application interface here]
-
-## Contributing
-
-This is a learning project. Feel free to fork and modify for your own use.
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contact
-
-[Your Name]
-[Your Email]
-[Your GitHub Profile]
