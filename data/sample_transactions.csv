@@ -1,0 +1,1001 @@
+transaction_date,description,category,transaction_type,amount,payment_method
+2025-05-06,Groceries,Food,Expense,4840.75,Cash
+2025-10-07,Monthly salary,Salary,Income,48834.97,UPI
+2025-04-22,Groceries,Food,Expense,271.3,Cash
+2025-11-29,Groceries,Food,Expense,3683.19,Bank Transfer
+2025-01-04,Electricity bill,Bills,Expense,5276.54,Cash
+2025-04-21,Medicine,Health,Expense,1863.93,Card
+2025-06-26,Freelance project,Freelance,Income,19835.82,Card
+2025-07-13,Online course,Education,Expense,3522.58,UPI
+2025-12-27,Medicine,Health,Expense,3786.6,UPI
+2025-02-10,Monthly salary,Salary,Income,53653.42,Cash
+2025-11-22,Movie tickets,Entertainment,Expense,1864.59,Card
+2025-05-17,Freelance project,Freelance,Income,25475.35,UPI
+2025-05-06,Online purchase,Shopping,Expense,3509.18,Cash
+2025-11-24,Electricity bill,Bills,Expense,6432.74,Cash
+2025-01-17,Groceries,Food,Expense,1550.49,Card
+2025-10-18,Cab fare,Transport,Expense,1434.51,Card
+2025-11-26,Freelance project,Freelance,Income,34781.6,Bank Transfer
+2025-10-15,Monthly salary,Salary,Income,27331.38,Card
+2025-07-24,Movie tickets,Entertainment,Expense,5844.02,Card
+2025-02-16,Monthly salary,Salary,Income,40476.31,UPI
+2025-12-15,Online purchase,Shopping,Expense,4108.2,Bank Transfer
+2025-08-28,Movie tickets,Entertainment,Expense,2530.0,Card
+2025-02-28,Groceries,Food,Expense,4447.42,Card
+2025-08-11,Medicine,Health,Expense,796.16,Cash
+2025-04-02,Electricity bill,Bills,Expense,6319.52,UPI
+2025-09-17,Electricity bill,Bills,Expense,5483.52,Cash
+2025-09-29,Monthly salary,Salary,Income,41968.95,UPI
+2025-07-05,Online course,Education,Expense,205.04,Card
+2025-02-10,House rent,Rent,Expense,5716.82,UPI
+2025-09-30,Cab fare,Transport,Expense,6358.66,Cash
+2025-03-26,Freelance project,Freelance,Income,62342.43,Card
+2025-10-04,Movie tickets,Entertainment,Expense,6271.21,Cash
+2025-11-29,Movie tickets,Entertainment,Expense,6468.86,Card
+2025-04-26,Online course,Education,Expense,856.85,UPI
+2025-01-04,House rent,Rent,Expense,3857.79,UPI
+2025-01-17,Groceries,Food,Expense,1549.81,Card
+2025-09-06,Monthly salary,Salary,Income,28923.86,Cash
+2025-08-31,Online course,Education,Expense,1640.04,Bank Transfer
+2025-07-01,Monthly salary,Salary,Income,47949.14,Bank Transfer
+2025-11-27,Groceries,Food,Expense,4403.0,UPI
+2025-02-25,Interest credit,Other,Income,31965.13,Cash
+2025-08-05,Interest credit,Other,Income,37430.68,Cash
+2025-02-08,House rent,Rent,Expense,5694.2,Bank Transfer
+2025-10-04,Cab fare,Transport,Expense,404.78,UPI
+2025-09-06,House rent,Rent,Expense,1147.72,Bank Transfer
+2025-03-26,Freelance project,Freelance,Income,60122.14,Bank Transfer
+2025-08-21,Freelance project,Freelance,Income,28260.15,Card
+2025-06-01,Online course,Education,Expense,1073.8,Cash
+2025-01-30,Groceries,Food,Expense,4882.0,UPI
+2025-09-18,Online purchase,Shopping,Expense,445.17,UPI
+2025-12-12,Cab fare,Transport,Expense,3900.13,Cash
+2025-01-21,House rent,Rent,Expense,3796.66,UPI
+2025-04-15,Medicine,Health,Expense,6080.81,Card
+2025-11-27,Movie tickets,Entertainment,Expense,920.24,Card
+2025-11-15,Cab fare,Transport,Expense,139.81,UPI
+2025-03-09,Monthly salary,Salary,Income,40294.23,Card
+2025-03-22,House rent,Rent,Expense,2452.36,Bank Transfer
+2025-12-01,Electricity bill,Bills,Expense,4006.97,UPI
+2025-02-23,Electricity bill,Bills,Expense,6061.87,Cash
+2025-03-21,Cab fare,Transport,Expense,4846.32,Card
+2025-04-15,House rent,Rent,Expense,4687.07,Card
+2025-01-27,Electricity bill,Bills,Expense,5892.26,UPI
+2025-06-20,Electricity bill,Bills,Expense,363.04,Cash
+2025-08-15,Electricity bill,Bills,Expense,1117.36,Bank Transfer
+2025-12-20,Cab fare,Transport,Expense,563.07,Cash
+2025-03-17,Medicine,Health,Expense,3819.71,Bank Transfer
+2025-01-21,Freelance project,Freelance,Income,33232.58,Card
+2025-07-01,Monthly salary,Salary,Income,48346.67,Bank Transfer
+2025-05-02,Online purchase,Shopping,Expense,6023.4,Cash
+2025-01-13,Online purchase,Shopping,Expense,5738.69,Cash
+2025-07-30,Medicine,Health,Expense,5102.92,Cash
+2025-01-20,Cab fare,Transport,Expense,2535.92,Bank Transfer
+2025-04-27,Online course,Education,Expense,2324.81,Cash
+2025-05-23,Monthly salary,Salary,Income,34923.3,UPI
+2025-09-18,Electricity bill,Bills,Expense,2334.36,Bank Transfer
+2025-03-01,Medicine,Health,Expense,6109.9,Card
+2025-11-02,Freelance project,Freelance,Income,16912.86,Bank Transfer
+2025-09-19,Medicine,Health,Expense,2881.65,UPI
+2025-12-29,House rent,Rent,Expense,1715.32,Bank Transfer
+2025-12-10,Interest credit,Other,Income,49342.86,Cash
+2025-06-19,Cab fare,Transport,Expense,6171.77,Card
+2025-06-03,Cab fare,Transport,Expense,4700.82,Card
+2025-06-01,Medicine,Health,Expense,2663.41,Cash
+2025-12-13,Interest credit,Other,Income,62018.18,Cash
+2025-01-01,Electricity bill,Bills,Expense,2687.0,Card
+2025-11-07,Movie tickets,Entertainment,Expense,5124.57,Card
+2025-09-19,Online course,Education,Expense,4417.53,Bank Transfer
+2025-05-26,Online purchase,Shopping,Expense,4309.82,Card
+2025-04-26,Monthly salary,Salary,Income,48639.78,Cash
+2025-09-01,Monthly salary,Salary,Income,27242.13,UPI
+2025-07-16,House rent,Rent,Expense,4691.78,Bank Transfer
+2025-01-03,Online purchase,Shopping,Expense,4291.89,UPI
+2025-12-23,House rent,Rent,Expense,1209.19,Bank Transfer
+2025-03-04,Monthly salary,Salary,Income,60873.5,Bank Transfer
+2025-10-14,Freelance project,Freelance,Income,48378.89,Card
+2025-09-16,Online course,Education,Expense,4013.23,Bank Transfer
+2025-09-01,Online course,Education,Expense,5840.08,Bank Transfer
+2025-05-22,House rent,Rent,Expense,5471.92,Bank Transfer
+2025-05-27,Electricity bill,Bills,Expense,2903.98,Cash
+2025-02-11,Medicine,Health,Expense,5813.23,Cash
+2025-12-28,Freelance project,Freelance,Income,49697.49,Cash
+2025-08-27,Freelance project,Freelance,Income,31544.07,Bank Transfer
+2025-10-27,Freelance project,Freelance,Income,34473.84,UPI
+2025-06-30,Movie tickets,Entertainment,Expense,3142.21,Card
+2025-10-07,Movie tickets,Entertainment,Expense,3535.38,Cash
+2025-01-15,Electricity bill,Bills,Expense,2878.07,Bank Transfer
+2025-08-28,Movie tickets,Entertainment,Expense,4729.24,Cash
+2025-10-31,Groceries,Food,Expense,5902.48,UPI
+2025-08-25,Freelance project,Freelance,Income,21784.97,Cash
+2025-08-21,Freelance project,Freelance,Income,31367.63,Card
+2025-08-04,Movie tickets,Entertainment,Expense,1866.41,Card
+2025-10-04,Online course,Education,Expense,204.44,UPI
+2025-02-05,Medicine,Health,Expense,1519.51,UPI
+2025-01-11,House rent,Rent,Expense,1359.9,Cash
+2025-10-16,Online course,Education,Expense,4377.93,Cash
+2025-03-27,Electricity bill,Bills,Expense,5003.49,UPI
+2025-02-25,Online purchase,Shopping,Expense,6273.51,UPI
+2025-04-12,Movie tickets,Entertainment,Expense,2626.52,UPI
+2025-06-04,House rent,Rent,Expense,734.21,UPI
+2025-08-08,Groceries,Food,Expense,2309.05,Card
+2025-08-04,Interest credit,Other,Income,32061.56,Bank Transfer
+2025-08-24,Freelance project,Freelance,Income,46779.26,Cash
+2025-10-03,Electricity bill,Bills,Expense,4034.16,Bank Transfer
+2025-05-06,Electricity bill,Bills,Expense,2149.2,UPI
+2025-08-26,Online course,Education,Expense,1645.6,Bank Transfer
+2025-04-04,Online course,Education,Expense,5543.12,Bank Transfer
+2025-11-02,Freelance project,Freelance,Income,32016.94,Card
+2025-07-28,House rent,Rent,Expense,629.64,Bank Transfer
+2025-11-27,House rent,Rent,Expense,4513.71,Bank Transfer
+2025-04-24,Groceries,Food,Expense,677.4,Bank Transfer
+2025-07-08,Electricity bill,Bills,Expense,4342.62,Bank Transfer
+2025-10-09,Medicine,Health,Expense,2811.73,Card
+2025-05-09,Online course,Education,Expense,1819.28,Cash
+2025-10-02,Monthly salary,Salary,Income,30777.4,Cash
+2025-10-29,Interest credit,Other,Income,39209.93,Card
+2025-07-04,House rent,Rent,Expense,1981.9,Cash
+2025-01-28,Online purchase,Shopping,Expense,1841.08,Card
+2025-09-09,Online purchase,Shopping,Expense,4175.12,UPI
+2025-08-14,Electricity bill,Bills,Expense,3093.53,Card
+2025-09-02,Monthly salary,Salary,Income,27623.92,UPI
+2025-10-23,Movie tickets,Entertainment,Expense,3237.01,UPI
+2025-02-13,Interest credit,Other,Income,62456.28,Cash
+2025-11-13,Freelance project,Freelance,Income,45315.88,Cash
+2025-08-15,Movie tickets,Entertainment,Expense,2972.3,Card
+2025-11-14,Movie tickets,Entertainment,Expense,2040.54,UPI
+2025-04-17,Cab fare,Transport,Expense,6163.53,Cash
+2025-03-30,Cab fare,Transport,Expense,1088.31,UPI
+2025-11-01,Freelance project,Freelance,Income,37525.19,Bank Transfer
+2025-05-25,House rent,Rent,Expense,1929.63,Bank Transfer
+2025-11-17,Monthly salary,Salary,Income,61195.55,Cash
+2025-05-17,House rent,Rent,Expense,4237.81,Cash
+2025-11-01,Monthly salary,Salary,Income,54631.43,Card
+2025-12-25,Online course,Education,Expense,4501.31,Bank Transfer
+2025-11-03,Online course,Education,Expense,2890.41,UPI
+2025-01-14,Medicine,Health,Expense,3955.84,UPI
+2025-12-11,Groceries,Food,Expense,6497.25,Card
+2025-11-30,Online purchase,Shopping,Expense,3100.62,Bank Transfer
+2025-08-12,Online purchase,Shopping,Expense,6480.39,Bank Transfer
+2025-06-20,Online course,Education,Expense,2313.91,Card
+2025-12-22,Online purchase,Shopping,Expense,2197.34,Bank Transfer
+2025-10-09,Movie tickets,Entertainment,Expense,5303.09,UPI
+2025-03-01,Medicine,Health,Expense,1700.4,Bank Transfer
+2025-10-05,Groceries,Food,Expense,4302.18,Bank Transfer
+2025-11-15,House rent,Rent,Expense,3408.38,Bank Transfer
+2025-10-09,Groceries,Food,Expense,1386.84,Cash
+2025-09-06,Online course,Education,Expense,5735.04,UPI
+2025-05-03,Interest credit,Other,Income,45443.58,Cash
+2025-02-17,Groceries,Food,Expense,3625.45,Cash
+2025-03-02,Cab fare,Transport,Expense,3042.5,Cash
+2025-05-20,Electricity bill,Bills,Expense,3346.96,Bank Transfer
+2025-10-10,Online course,Education,Expense,1644.75,Cash
+2025-05-22,Online purchase,Shopping,Expense,5627.05,Bank Transfer
+2025-05-25,Electricity bill,Bills,Expense,5347.93,Card
+2025-08-17,Online course,Education,Expense,5634.97,Bank Transfer
+2025-06-14,Movie tickets,Entertainment,Expense,3003.31,Cash
+2025-04-30,House rent,Rent,Expense,3750.94,Bank Transfer
+2025-07-15,Interest credit,Other,Income,38648.81,Bank Transfer
+2025-01-19,Online purchase,Shopping,Expense,3260.01,Cash
+2025-08-14,Medicine,Health,Expense,5663.48,UPI
+2025-03-15,Online course,Education,Expense,178.53,Bank Transfer
+2025-05-16,Online purchase,Shopping,Expense,560.4,Card
+2025-06-18,Movie tickets,Entertainment,Expense,4251.95,Bank Transfer
+2025-01-19,Online course,Education,Expense,5680.7,UPI
+2025-02-16,Electricity bill,Bills,Expense,6483.47,Bank Transfer
+2025-12-22,Cab fare,Transport,Expense,2928.42,Card
+2025-01-29,Groceries,Food,Expense,2162.49,Card
+2025-09-29,Movie tickets,Entertainment,Expense,1014.56,Bank Transfer
+2025-02-10,Online purchase,Shopping,Expense,1171.3,Bank Transfer
+2025-10-26,House rent,Rent,Expense,3275.02,Cash
+2025-12-08,Electricity bill,Bills,Expense,3030.44,UPI
+2025-12-13,Online course,Education,Expense,5865.76,Cash
+2025-06-03,Freelance project,Freelance,Income,64382.58,Bank Transfer
+2025-04-12,Online course,Education,Expense,5506.85,Bank Transfer
+2025-10-20,Cab fare,Transport,Expense,1602.86,Card
+2025-12-04,Electricity bill,Bills,Expense,220.85,Bank Transfer
+2025-09-12,Groceries,Food,Expense,5926.16,Card
+2025-06-30,House rent,Rent,Expense,3977.36,Cash
+2025-12-04,Electricity bill,Bills,Expense,4431.25,Cash
+2025-08-14,Groceries,Food,Expense,2063.35,UPI
+2025-06-01,Online purchase,Shopping,Expense,658.66,Card
+2025-10-04,Online purchase,Shopping,Expense,1369.1,Card
+2025-05-12,Electricity bill,Bills,Expense,5411.63,Bank Transfer
+2025-06-23,Electricity bill,Bills,Expense,4872.91,UPI
+2025-04-26,Cab fare,Transport,Expense,983.66,Bank Transfer
+2025-07-22,Medicine,Health,Expense,659.74,UPI
+2025-12-11,Cab fare,Transport,Expense,2999.73,Card
+2025-04-30,Medicine,Health,Expense,775.58,Bank Transfer
+2025-11-09,Interest credit,Other,Income,31400.31,Cash
+2025-06-04,Online course,Education,Expense,5918.27,Bank Transfer
+2025-06-05,Monthly salary,Salary,Income,62313.08,Bank Transfer
+2025-03-11,Monthly salary,Salary,Income,59362.97,Bank Transfer
+2025-03-21,Movie tickets,Entertainment,Expense,3850.73,Bank Transfer
+2025-05-24,Online course,Education,Expense,4032.49,UPI
+2025-05-01,House rent,Rent,Expense,2926.52,Card
+2025-11-27,Interest credit,Other,Income,33366.75,Card
+2025-03-04,Freelance project,Freelance,Income,24490.43,Bank Transfer
+2025-11-02,Monthly salary,Salary,Income,47085.22,UPI
+2025-03-06,Freelance project,Freelance,Income,27178.44,Cash
+2025-04-21,Interest credit,Other,Income,25357.87,Cash
+2025-11-02,Online purchase,Shopping,Expense,5143.09,UPI
+2025-10-04,Online purchase,Shopping,Expense,6419.93,Card
+2025-01-14,Cab fare,Transport,Expense,4323.99,Cash
+2025-01-09,Monthly salary,Salary,Income,44442.65,Cash
+2025-09-27,Online purchase,Shopping,Expense,4841.83,UPI
+2025-07-05,Online course,Education,Expense,2957.93,UPI
+2025-01-23,House rent,Rent,Expense,6149.57,Card
+2025-09-03,Groceries,Food,Expense,470.5,Bank Transfer
+2025-08-16,Cab fare,Transport,Expense,3227.53,UPI
+2025-02-03,Medicine,Health,Expense,3985.27,Cash
+2025-11-02,Medicine,Health,Expense,2525.41,Card
+2025-12-26,Movie tickets,Entertainment,Expense,716.73,UPI
+2025-04-27,House rent,Rent,Expense,2841.05,Bank Transfer
+2025-02-18,Online course,Education,Expense,2639.85,Card
+2025-03-20,Electricity bill,Bills,Expense,2483.01,Bank Transfer
+2025-02-19,Monthly salary,Salary,Income,19661.51,Card
+2025-10-15,Groceries,Food,Expense,3845.11,Card
+2025-12-07,Movie tickets,Entertainment,Expense,2350.1,Bank Transfer
+2025-11-04,Groceries,Food,Expense,6297.12,Card
+2025-09-04,House rent,Rent,Expense,1073.37,Cash
+2025-07-08,Medicine,Health,Expense,5507.3,UPI
+2025-10-15,House rent,Rent,Expense,5262.36,UPI
+2025-05-20,Electricity bill,Bills,Expense,265.88,Card
+2025-03-15,Medicine,Health,Expense,119.2,Bank Transfer
+2025-01-16,Interest credit,Other,Income,46658.6,UPI
+2025-08-21,House rent,Rent,Expense,2495.17,Card
+2025-10-18,Freelance project,Freelance,Income,51079.8,UPI
+2025-11-13,Online purchase,Shopping,Expense,1090.57,UPI
+2025-08-06,Electricity bill,Bills,Expense,2924.79,Bank Transfer
+2025-09-20,Movie tickets,Entertainment,Expense,1833.73,UPI
+2025-12-14,Cab fare,Transport,Expense,1898.44,Bank Transfer
+2025-07-22,Electricity bill,Bills,Expense,371.58,UPI
+2025-03-12,Freelance project,Freelance,Income,62266.2,Card
+2025-08-09,Cab fare,Transport,Expense,129.63,Cash
+2025-09-14,Interest credit,Other,Income,50183.56,Card
+2025-01-10,Interest credit,Other,Income,17115.11,Bank Transfer
+2025-10-21,Medicine,Health,Expense,3776.37,Bank Transfer
+2025-07-27,Movie tickets,Entertainment,Expense,1938.69,UPI
+2025-11-13,Online purchase,Shopping,Expense,5224.49,Bank Transfer
+2025-02-24,Medicine,Health,Expense,645.79,Cash
+2025-07-22,Movie tickets,Entertainment,Expense,3443.84,Card
+2025-03-28,House rent,Rent,Expense,2218.3,UPI
+2025-04-10,Cab fare,Transport,Expense,3486.48,Card
+2025-03-16,Online purchase,Shopping,Expense,1596.85,Card
+2025-12-02,Interest credit,Other,Income,22643.49,UPI
+2025-10-16,Interest credit,Other,Income,39705.85,Bank Transfer
+2025-11-18,Medicine,Health,Expense,5628.46,Card
+2025-11-20,Monthly salary,Salary,Income,38446.05,Card
+2025-02-07,Groceries,Food,Expense,2339.47,Card
+2025-05-27,Groceries,Food,Expense,445.23,UPI
+2025-09-17,Cab fare,Transport,Expense,4028.35,Bank Transfer
+2025-10-20,Groceries,Food,Expense,2967.29,Cash
+2025-02-01,Online course,Education,Expense,3298.78,Bank Transfer
+2025-02-13,Freelance project,Freelance,Income,64119.28,Cash
+2025-08-13,Interest credit,Other,Income,36887.91,Cash
+2025-06-23,Electricity bill,Bills,Expense,2567.21,UPI
+2025-02-18,Medicine,Health,Expense,503.15,Bank Transfer
+2025-10-26,Online purchase,Shopping,Expense,2220.18,Cash
+2025-12-24,Electricity bill,Bills,Expense,6292.61,Bank Transfer
+2025-06-08,Interest credit,Other,Income,61900.11,Bank Transfer
+2025-12-10,Medicine,Health,Expense,5300.65,UPI
+2025-01-10,Movie tickets,Entertainment,Expense,3344.5,Card
+2025-09-06,House rent,Rent,Expense,2273.92,Cash
+2025-06-01,Online purchase,Shopping,Expense,1074.75,UPI
+2025-11-13,Groceries,Food,Expense,4329.59,Cash
+2025-12-21,Online purchase,Shopping,Expense,1121.63,Cash
+2025-12-13,Groceries,Food,Expense,2717.71,Cash
+2025-08-18,Electricity bill,Bills,Expense,4910.35,Cash
+2025-08-29,Electricity bill,Bills,Expense,6279.13,Cash
+2025-05-25,Online course,Education,Expense,3043.99,Bank Transfer
+2025-04-13,Movie tickets,Entertainment,Expense,6283.44,Cash
+2025-07-10,Groceries,Food,Expense,4196.37,UPI
+2025-03-24,Cab fare,Transport,Expense,1910.1,Card
+2025-02-16,Online purchase,Shopping,Expense,5415.32,Cash
+2025-08-01,Medicine,Health,Expense,6053.63,UPI
+2025-02-11,Medicine,Health,Expense,1593.7,Card
+2025-11-29,Medicine,Health,Expense,6055.9,Card
+2025-08-30,Online purchase,Shopping,Expense,325.91,Cash
+2025-01-03,Online course,Education,Expense,2960.02,UPI
+2025-10-08,Monthly salary,Salary,Income,56748.15,Bank Transfer
+2025-03-04,Freelance project,Freelance,Income,26882.01,UPI
+2025-09-13,Online course,Education,Expense,483.22,UPI
+2025-05-30,House rent,Rent,Expense,4693.05,Bank Transfer
+2025-08-02,Freelance project,Freelance,Income,27028.21,Cash
+2025-07-04,Cab fare,Transport,Expense,3440.77,UPI
+2025-08-29,Groceries,Food,Expense,2586.71,UPI
+2025-01-09,Medicine,Health,Expense,1708.43,Card
+2025-12-03,Medicine,Health,Expense,1628.03,UPI
+2025-06-30,Medicine,Health,Expense,936.49,Card
+2025-12-17,Online purchase,Shopping,Expense,5411.06,Bank Transfer
+2025-03-11,Online course,Education,Expense,4135.74,UPI
+2025-04-14,Online course,Education,Expense,317.44,UPI
+2025-06-08,Groceries,Food,Expense,2106.13,Bank Transfer
+2025-11-28,Online course,Education,Expense,1706.27,Cash
+2025-06-19,Groceries,Food,Expense,5638.42,Card
+2025-07-24,Freelance project,Freelance,Income,36847.57,Bank Transfer
+2025-04-06,Movie tickets,Entertainment,Expense,2256.62,Bank Transfer
+2025-09-23,Medicine,Health,Expense,6014.07,Card
+2025-11-05,Movie tickets,Entertainment,Expense,586.71,Cash
+2025-06-17,Medicine,Health,Expense,738.68,Card
+2025-08-16,Movie tickets,Entertainment,Expense,1149.86,Card
+2025-08-11,Medicine,Health,Expense,4027.35,Card
+2025-11-23,Groceries,Food,Expense,561.76,Bank Transfer
+2025-03-15,Online purchase,Shopping,Expense,6196.91,Bank Transfer
+2025-11-27,Monthly salary,Salary,Income,26799.77,Card
+2025-12-14,Groceries,Food,Expense,3964.71,Bank Transfer
+2025-02-09,Medicine,Health,Expense,2930.09,Cash
+2025-05-23,Movie tickets,Entertainment,Expense,2098.35,Cash
+2025-09-13,Groceries,Food,Expense,4803.03,Bank Transfer
+2025-05-14,Cab fare,Transport,Expense,1760.61,Bank Transfer
+2025-09-09,Interest credit,Other,Income,29278.84,Cash
+2025-08-16,Monthly salary,Salary,Income,37602.13,UPI
+2025-12-30,Medicine,Health,Expense,4367.53,UPI
+2025-03-22,Electricity bill,Bills,Expense,5802.35,Cash
+2025-04-13,House rent,Rent,Expense,859.15,Cash
+2025-10-11,Online course,Education,Expense,248.74,Card
+2025-02-14,Online purchase,Shopping,Expense,4008.71,UPI
+2025-07-29,Online course,Education,Expense,3454.97,UPI
+2025-08-19,Freelance project,Freelance,Income,47116.93,Bank Transfer
+2025-10-10,Medicine,Health,Expense,903.91,Cash
+2025-01-29,Online purchase,Shopping,Expense,2857.41,UPI
+2025-06-15,Electricity bill,Bills,Expense,1137.1,Cash
+2025-05-09,Electricity bill,Bills,Expense,5510.89,Cash
+2025-06-05,Electricity bill,Bills,Expense,883.59,UPI
+2025-10-25,Online purchase,Shopping,Expense,3879.41,Cash
+2025-11-06,Interest credit,Other,Income,51031.64,Card
+2025-01-15,Groceries,Food,Expense,5378.02,UPI
+2025-05-16,Interest credit,Other,Income,53551.12,Cash
+2025-01-16,Movie tickets,Entertainment,Expense,4048.26,Bank Transfer
+2025-06-04,Electricity bill,Bills,Expense,4201.04,Bank Transfer
+2025-02-07,Movie tickets,Entertainment,Expense,1989.53,UPI
+2025-04-15,Freelance project,Freelance,Income,39212.56,Card
+2025-06-13,Medicine,Health,Expense,5610.73,Card
+2025-09-21,Online purchase,Shopping,Expense,4963.47,UPI
+2025-08-19,Online course,Education,Expense,866.59,Cash
+2025-07-16,Monthly salary,Salary,Income,29510.6,Bank Transfer
+2025-10-23,Online purchase,Shopping,Expense,5302.53,Card
+2025-09-21,Monthly salary,Salary,Income,39913.28,Bank Transfer
+2025-02-16,Electricity bill,Bills,Expense,3273.12,Bank Transfer
+2025-06-30,House rent,Rent,Expense,1461.23,UPI
+2025-12-01,Freelance project,Freelance,Income,44875.94,Bank Transfer
+2025-08-09,Groceries,Food,Expense,5518.85,Cash
+2025-07-07,Medicine,Health,Expense,4983.96,UPI
+2025-05-28,House rent,Rent,Expense,2407.4,UPI
+2025-05-24,Online course,Education,Expense,4987.47,UPI
+2025-06-23,Monthly salary,Salary,Income,34695.19,Card
+2025-07-25,House rent,Rent,Expense,3947.81,UPI
+2025-08-31,Monthly salary,Salary,Income,50679.59,Bank Transfer
+2025-11-10,Interest credit,Other,Income,21989.05,Card
+2025-06-03,Interest credit,Other,Income,51965.97,Card
+2025-06-03,Online course,Education,Expense,4630.11,Bank Transfer
+2025-02-26,Medicine,Health,Expense,2206.56,Bank Transfer
+2025-05-16,Groceries,Food,Expense,3912.16,Cash
+2025-11-19,Online course,Education,Expense,1174.69,Bank Transfer
+2025-10-21,Interest credit,Other,Income,27109.83,UPI
+2025-03-19,Freelance project,Freelance,Income,30684.62,Bank Transfer
+2025-11-10,Movie tickets,Entertainment,Expense,3301.68,Bank Transfer
+2025-09-23,Groceries,Food,Expense,4611.08,Cash
+2025-06-10,Online course,Education,Expense,3453.56,Cash
+2025-12-13,Medicine,Health,Expense,3587.07,Card
+2025-05-23,House rent,Rent,Expense,6226.11,Card
+2025-12-27,Electricity bill,Bills,Expense,5030.94,Cash
+2025-06-28,Online course,Education,Expense,2115.4,Card
+2025-07-22,Movie tickets,Entertainment,Expense,5830.78,Card
+2025-05-28,Online purchase,Shopping,Expense,1944.71,UPI
+2025-09-03,Online course,Education,Expense,4291.34,Cash
+2025-10-15,Interest credit,Other,Income,28556.64,Card
+2025-05-03,Interest credit,Other,Income,52044.55,Cash
+2025-04-30,Interest credit,Other,Income,26283.58,UPI
+2025-02-21,Freelance project,Freelance,Income,50867.9,Cash
+2025-03-22,Interest credit,Other,Income,63895.54,Bank Transfer
+2025-04-13,Online course,Education,Expense,3145.22,Card
+2025-02-15,Groceries,Food,Expense,5908.96,Cash
+2025-03-31,Groceries,Food,Expense,5942.93,Bank Transfer
+2025-01-19,Online purchase,Shopping,Expense,6075.78,Bank Transfer
+2025-05-29,Online purchase,Shopping,Expense,6093.03,UPI
+2025-06-21,Interest credit,Other,Income,45139.15,Card
+2025-03-10,Online course,Education,Expense,5789.05,Bank Transfer
+2025-08-23,Cab fare,Transport,Expense,2202.99,Card
+2025-06-01,Groceries,Food,Expense,4809.09,Cash
+2025-08-07,Interest credit,Other,Income,59852.14,Card
+2025-03-13,Interest credit,Other,Income,19769.26,Bank Transfer
+2025-07-16,House rent,Rent,Expense,123.85,Cash
+2025-06-04,Electricity bill,Bills,Expense,6204.9,UPI
+2025-02-01,Medicine,Health,Expense,4527.57,UPI
+2025-09-15,Online purchase,Shopping,Expense,2682.77,Card
+2025-04-24,Electricity bill,Bills,Expense,2439.63,Cash
+2025-11-07,Online course,Education,Expense,1063.45,Card
+2025-12-07,Online course,Education,Expense,4942.19,Cash
+2025-09-28,Cab fare,Transport,Expense,3453.75,Card
+2025-10-08,Interest credit,Other,Income,20610.44,Cash
+2025-09-24,Online purchase,Shopping,Expense,1136.33,Bank Transfer
+2025-09-08,Monthly salary,Salary,Income,50845.9,UPI
+2025-08-21,Online course,Education,Expense,5271.8,Cash
+2025-10-14,Online course,Education,Expense,3700.31,Bank Transfer
+2025-07-22,Electricity bill,Bills,Expense,4723.46,Card
+2025-01-24,House rent,Rent,Expense,3792.76,Bank Transfer
+2025-01-31,Cab fare,Transport,Expense,3554.27,UPI
+2025-07-29,Online course,Education,Expense,283.74,Cash
+2025-07-15,Movie tickets,Entertainment,Expense,2484.04,Bank Transfer
+2025-12-16,Movie tickets,Entertainment,Expense,2491.64,Cash
+2025-10-03,Medicine,Health,Expense,841.62,Bank Transfer
+2025-01-12,House rent,Rent,Expense,5439.55,Card
+2025-04-28,Movie tickets,Entertainment,Expense,3495.01,Cash
+2025-02-27,Online purchase,Shopping,Expense,1849.67,UPI
+2025-01-09,Movie tickets,Entertainment,Expense,4027.81,Cash
+2025-08-17,Monthly salary,Salary,Income,44697.21,UPI
+2025-04-30,Groceries,Food,Expense,2662.54,Cash
+2025-05-29,Groceries,Food,Expense,979.67,Cash
+2025-12-11,Medicine,Health,Expense,3787.39,Card
+2025-09-24,Online purchase,Shopping,Expense,6408.17,Cash
+2025-10-30,Electricity bill,Bills,Expense,471.35,Cash
+2025-01-25,Movie tickets,Entertainment,Expense,3648.56,Card
+2025-06-13,Movie tickets,Entertainment,Expense,5124.87,Bank Transfer
+2025-10-03,Electricity bill,Bills,Expense,2496.87,Bank Transfer
+2025-12-29,House rent,Rent,Expense,2010.73,Cash
+2025-08-02,Groceries,Food,Expense,3690.52,Cash
+2025-11-28,Electricity bill,Bills,Expense,1385.42,UPI
+2025-04-08,Medicine,Health,Expense,673.62,UPI
+2025-04-07,Groceries,Food,Expense,5688.64,Cash
+2025-01-08,Medicine,Health,Expense,2026.47,Cash
+2025-09-03,Cab fare,Transport,Expense,4874.96,Cash
+2025-05-03,House rent,Rent,Expense,2626.38,Card
+2025-11-29,Movie tickets,Entertainment,Expense,3073.33,Card
+2025-09-12,Medicine,Health,Expense,3372.28,Bank Transfer
+2025-06-13,Interest credit,Other,Income,38474.52,Cash
+2025-04-24,Movie tickets,Entertainment,Expense,373.49,Cash
+2025-10-24,Interest credit,Other,Income,61737.91,Bank Transfer
+2025-07-14,House rent,Rent,Expense,2197.74,Cash
+2025-09-08,Medicine,Health,Expense,1732.04,Bank Transfer
+2025-10-07,Medicine,Health,Expense,1166.69,Bank Transfer
+2025-01-31,Interest credit,Other,Income,64516.18,UPI
+2025-12-09,Cab fare,Transport,Expense,6148.11,UPI
+2025-11-19,Movie tickets,Entertainment,Expense,962.7,Cash
+2025-09-16,Monthly salary,Salary,Income,15457.07,Bank Transfer
+2025-01-09,Online course,Education,Expense,4312.61,UPI
+2025-09-29,Movie tickets,Entertainment,Expense,156.08,Card
+2025-12-24,Electricity bill,Bills,Expense,190.06,Bank Transfer
+2025-02-19,Online purchase,Shopping,Expense,767.05,Cash
+2025-05-17,Electricity bill,Bills,Expense,5313.68,Bank Transfer
+2025-05-05,Freelance project,Freelance,Income,37949.89,Cash
+2025-11-29,Cab fare,Transport,Expense,4276.98,UPI
+2025-09-01,Freelance project,Freelance,Income,33858.48,UPI
+2025-08-11,Online purchase,Shopping,Expense,610.84,Card
+2025-01-22,Cab fare,Transport,Expense,5824.56,Cash
+2025-09-01,Interest credit,Other,Income,59377.72,Card
+2025-05-24,Monthly salary,Salary,Income,49221.44,UPI
+2025-04-17,Freelance project,Freelance,Income,15782.9,Cash
+2025-06-03,Movie tickets,Entertainment,Expense,6043.38,Cash
+2025-10-04,Movie tickets,Entertainment,Expense,4426.56,Card
+2025-12-19,Online purchase,Shopping,Expense,5155.0,UPI
+2025-08-12,Medicine,Health,Expense,424.73,Cash
+2025-11-11,Medicine,Health,Expense,3965.18,Bank Transfer
+2025-05-20,Medicine,Health,Expense,270.2,Bank Transfer
+2025-07-12,Medicine,Health,Expense,3630.5,Bank Transfer
+2025-02-13,Interest credit,Other,Income,48033.6,Card
+2025-03-20,Cab fare,Transport,Expense,606.68,Bank Transfer
+2025-06-12,Online purchase,Shopping,Expense,4828.59,Card
+2025-08-16,Monthly salary,Salary,Income,62148.01,Card
+2025-04-06,Cab fare,Transport,Expense,930.69,Bank Transfer
+2025-02-15,Movie tickets,Entertainment,Expense,743.14,Card
+2025-01-07,Medicine,Health,Expense,5625.07,Card
+2025-10-14,Cab fare,Transport,Expense,4733.5,Cash
+2025-03-28,Online purchase,Shopping,Expense,4479.73,Cash
+2025-02-02,Electricity bill,Bills,Expense,3245.86,Cash
+2025-02-09,Movie tickets,Entertainment,Expense,2004.41,Card
+2025-09-11,House rent,Rent,Expense,4708.17,Cash
+2025-07-22,Online purchase,Shopping,Expense,2035.9,Card
+2025-06-18,Movie tickets,Entertainment,Expense,5242.17,Bank Transfer
+2025-11-05,Online purchase,Shopping,Expense,2008.79,Cash
+2025-06-13,Online purchase,Shopping,Expense,6272.57,Card
+2025-05-05,Online course,Education,Expense,6293.04,Card
+2025-10-16,Movie tickets,Entertainment,Expense,2423.4,Cash
+2025-10-09,Online purchase,Shopping,Expense,4456.6,UPI
+2025-04-18,Online course,Education,Expense,6133.9,Bank Transfer
+2025-07-29,Cab fare,Transport,Expense,5337.76,Bank Transfer
+2025-12-04,Freelance project,Freelance,Income,27101.06,Cash
+2025-11-03,Movie tickets,Entertainment,Expense,554.86,Bank Transfer
+2025-07-04,Movie tickets,Entertainment,Expense,3570.2,UPI
+2025-07-01,Monthly salary,Salary,Income,47880.08,Cash
+2025-11-27,Groceries,Food,Expense,3695.87,Bank Transfer
+2025-08-09,Medicine,Health,Expense,6279.9,UPI
+2025-09-23,Freelance project,Freelance,Income,26100.05,Cash
+2025-12-14,Movie tickets,Entertainment,Expense,3052.87,Cash
+2025-06-01,Groceries,Food,Expense,3179.39,Bank Transfer
+2025-03-14,Cab fare,Transport,Expense,825.17,Card
+2025-09-24,Online course,Education,Expense,5115.01,Bank Transfer
+2025-12-23,Cab fare,Transport,Expense,2893.03,Bank Transfer
+2025-12-30,Electricity bill,Bills,Expense,366.87,UPI
+2025-12-13,Freelance project,Freelance,Income,47398.5,Cash
+2025-10-10,House rent,Rent,Expense,3392.68,Cash
+2025-04-29,Movie tickets,Entertainment,Expense,6233.33,Bank Transfer
+2025-08-10,Online purchase,Shopping,Expense,4191.87,Bank Transfer
+2025-08-19,Interest credit,Other,Income,59154.87,Bank Transfer
+2025-12-27,House rent,Rent,Expense,1401.14,UPI
+2025-04-11,Online purchase,Shopping,Expense,2428.39,Bank Transfer
+2025-09-28,Interest credit,Other,Income,58131.83,Card
+2025-06-28,Movie tickets,Entertainment,Expense,3848.57,Card
+2025-12-28,Online purchase,Shopping,Expense,5304.2,Card
+2025-06-10,Cab fare,Transport,Expense,4394.95,UPI
+2025-12-22,Cab fare,Transport,Expense,1255.15,Cash
+2025-10-22,Movie tickets,Entertainment,Expense,3909.05,Bank Transfer
+2025-12-22,Online course,Education,Expense,4159.92,Cash
+2025-04-06,Online course,Education,Expense,1934.32,Card
+2025-01-05,Groceries,Food,Expense,5636.65,Bank Transfer
+2025-09-16,Freelance project,Freelance,Income,63191.45,Bank Transfer
+2025-08-16,Online course,Education,Expense,2748.35,Bank Transfer
+2025-04-23,Interest credit,Other,Income,16543.04,Card
+2025-03-28,Monthly salary,Salary,Income,41880.43,Bank Transfer
+2025-02-27,Online course,Education,Expense,3609.24,UPI
+2025-01-22,Medicine,Health,Expense,3559.92,Bank Transfer
+2025-12-01,Movie tickets,Entertainment,Expense,737.51,Cash
+2025-06-28,Groceries,Food,Expense,2967.28,UPI
+2025-05-02,Cab fare,Transport,Expense,5059.56,Cash
+2025-11-09,Medicine,Health,Expense,5607.93,Bank Transfer
+2025-04-16,Monthly salary,Salary,Income,54242.47,UPI
+2025-03-28,Electricity bill,Bills,Expense,3911.83,Card
+2025-05-17,Electricity bill,Bills,Expense,1937.52,UPI
+2025-05-22,Freelance project,Freelance,Income,60938.44,Cash
+2025-12-31,Online purchase,Shopping,Expense,1682.93,Card
+2025-10-23,Movie tickets,Entertainment,Expense,3222.33,Card
+2025-11-21,Movie tickets,Entertainment,Expense,2981.79,UPI
+2025-07-08,Electricity bill,Bills,Expense,4540.0,Bank Transfer
+2025-02-17,Medicine,Health,Expense,3816.15,Bank Transfer
+2025-10-01,Medicine,Health,Expense,5537.68,Bank Transfer
+2025-09-11,Freelance project,Freelance,Income,56242.38,Card
+2025-10-23,Electricity bill,Bills,Expense,2248.39,Cash
+2025-12-16,Online course,Education,Expense,5140.91,UPI
+2025-08-24,Interest credit,Other,Income,54194.49,UPI
+2025-01-01,Monthly salary,Salary,Income,37064.3,Bank Transfer
+2025-11-29,Interest credit,Other,Income,60470.36,Card
+2025-07-04,Freelance project,Freelance,Income,19667.0,Card
+2025-03-26,Interest credit,Other,Income,60190.01,UPI
+2025-04-30,Electricity bill,Bills,Expense,4740.85,Bank Transfer
+2025-09-02,Cab fare,Transport,Expense,86.97,UPI
+2025-08-16,Monthly salary,Salary,Income,40972.21,UPI
+2025-08-05,Freelance project,Freelance,Income,55855.45,Cash
+2025-02-22,House rent,Rent,Expense,2539.31,UPI
+2025-03-10,Electricity bill,Bills,Expense,960.37,Cash
+2025-11-29,Interest credit,Other,Income,15423.74,Cash
+2025-03-19,House rent,Rent,Expense,4112.27,Bank Transfer
+2025-02-14,Online course,Education,Expense,5600.96,UPI
+2025-07-16,Monthly salary,Salary,Income,44478.7,Card
+2025-05-07,Medicine,Health,Expense,5158.71,Card
+2025-11-04,House rent,Rent,Expense,3632.81,Card
+2025-12-04,Groceries,Food,Expense,5523.47,Card
+2025-07-20,Interest credit,Other,Income,40476.13,Card
+2025-02-27,House rent,Rent,Expense,3257.18,Cash
+2025-01-07,Cab fare,Transport,Expense,3471.6,Card
+2025-10-19,Online purchase,Shopping,Expense,2563.5,Bank Transfer
+2025-02-07,Online purchase,Shopping,Expense,4976.7,UPI
+2025-01-21,Groceries,Food,Expense,1763.23,UPI
+2025-11-18,Movie tickets,Entertainment,Expense,3332.44,Bank Transfer
+2025-10-02,Movie tickets,Entertainment,Expense,609.19,Cash
+2025-04-15,Electricity bill,Bills,Expense,587.32,Cash
+2025-11-29,Movie tickets,Entertainment,Expense,3844.93,UPI
+2025-05-03,Movie tickets,Entertainment,Expense,4766.33,UPI
+2025-11-10,Movie tickets,Entertainment,Expense,824.63,UPI
+2025-12-29,Online purchase,Shopping,Expense,846.82,Cash
+2025-06-27,Online purchase,Shopping,Expense,3266.97,Card
+2025-05-18,Monthly salary,Salary,Income,52488.82,UPI
+2025-08-08,Groceries,Food,Expense,2230.77,Card
+2025-10-23,Electricity bill,Bills,Expense,4653.12,UPI
+2025-10-18,Medicine,Health,Expense,435.92,Cash
+2025-10-21,Electricity bill,Bills,Expense,5044.77,UPI
+2025-01-07,Groceries,Food,Expense,362.72,Cash
+2025-03-18,Freelance project,Freelance,Income,34148.97,Cash
+2025-12-02,Groceries,Food,Expense,3629.39,Bank Transfer
+2025-06-13,House rent,Rent,Expense,2752.37,Card
+2025-12-11,Medicine,Health,Expense,846.55,UPI
+2025-07-25,Interest credit,Other,Income,64070.69,UPI
+2025-06-09,Electricity bill,Bills,Expense,5046.05,Card
+2025-04-13,Freelance project,Freelance,Income,15398.46,Card
+2025-05-05,Electricity bill,Bills,Expense,4828.08,Bank Transfer
+2025-04-11,Online course,Education,Expense,6485.79,Cash
+2025-10-05,Freelance project,Freelance,Income,16195.51,Card
+2025-01-01,Groceries,Food,Expense,6185.36,Bank Transfer
+2025-09-29,Electricity bill,Bills,Expense,747.35,Cash
+2025-03-14,Groceries,Food,Expense,6323.83,Card
+2025-09-24,Monthly salary,Salary,Income,59864.37,Bank Transfer
+2025-02-13,Medicine,Health,Expense,3023.3,UPI
+2025-10-18,Movie tickets,Entertainment,Expense,560.41,UPI
+2025-05-14,Online purchase,Shopping,Expense,1600.07,Card
+2025-06-17,Movie tickets,Entertainment,Expense,4578.66,Card
+2025-04-14,House rent,Rent,Expense,559.49,Cash
+2025-03-26,Cab fare,Transport,Expense,1077.74,Bank Transfer
+2025-07-03,Movie tickets,Entertainment,Expense,855.13,Cash
+2025-03-03,Online course,Education,Expense,1781.35,UPI
+2025-12-27,Interest credit,Other,Income,30210.75,UPI
+2025-12-31,Freelance project,Freelance,Income,22416.19,Cash
+2025-12-13,Movie tickets,Entertainment,Expense,3376.41,Card
+2025-07-27,Online purchase,Shopping,Expense,279.55,Bank Transfer
+2025-02-22,House rent,Rent,Expense,688.14,Cash
+2025-04-24,Monthly salary,Salary,Income,56518.62,Cash
+2025-11-19,Freelance project,Freelance,Income,33611.99,UPI
+2025-02-08,Electricity bill,Bills,Expense,5969.89,UPI
+2025-08-16,House rent,Rent,Expense,5874.02,Cash
+2025-08-25,Freelance project,Freelance,Income,21126.38,UPI
+2025-07-22,Interest credit,Other,Income,36657.82,Bank Transfer
+2025-07-01,Interest credit,Other,Income,36333.2,Cash
+2025-03-18,Electricity bill,Bills,Expense,1876.67,UPI
+2025-09-13,House rent,Rent,Expense,4235.53,Bank Transfer
+2025-05-24,Online course,Education,Expense,471.49,Bank Transfer
+2025-09-27,Monthly salary,Salary,Income,47132.63,Cash
+2025-07-03,Groceries,Food,Expense,6431.97,Bank Transfer
+2025-10-17,Online course,Education,Expense,2288.7,Card
+2025-11-02,Online purchase,Shopping,Expense,247.32,Cash
+2025-08-30,Freelance project,Freelance,Income,17929.56,Card
+2025-02-21,House rent,Rent,Expense,6332.95,Cash
+2025-01-29,Electricity bill,Bills,Expense,3506.29,Cash
+2025-03-30,Movie tickets,Entertainment,Expense,2357.85,Cash
+2025-12-24,Medicine,Health,Expense,5255.87,Card
+2025-06-30,Groceries,Food,Expense,4596.17,Cash
+2025-09-10,House rent,Rent,Expense,5451.59,Card
+2025-04-30,Monthly salary,Salary,Income,19512.87,Cash
+2025-11-11,Freelance project,Freelance,Income,15034.17,Cash
+2025-06-15,Medicine,Health,Expense,4682.74,UPI
+2025-03-14,Interest credit,Other,Income,50234.82,UPI
+2025-07-11,Medicine,Health,Expense,6246.79,Bank Transfer
+2025-03-11,Medicine,Health,Expense,2017.33,Cash
+2025-09-07,Movie tickets,Entertainment,Expense,5163.63,Card
+2025-11-11,Interest credit,Other,Income,49678.02,Card
+2025-12-19,Online purchase,Shopping,Expense,2509.23,Card
+2025-12-26,Interest credit,Other,Income,15089.9,Bank Transfer
+2025-06-12,Groceries,Food,Expense,1248.96,Cash
+2025-03-14,Cab fare,Transport,Expense,6093.54,Card
+2025-06-13,House rent,Rent,Expense,2306.52,Cash
+2025-12-10,Cab fare,Transport,Expense,5355.07,Card
+2025-12-21,Electricity bill,Bills,Expense,1426.17,UPI
+2025-01-25,Cab fare,Transport,Expense,4705.06,Bank Transfer
+2025-07-31,Movie tickets,Entertainment,Expense,6301.63,Bank Transfer
+2025-02-21,Medicine,Health,Expense,3585.47,Bank Transfer
+2025-02-07,House rent,Rent,Expense,1124.25,UPI
+2025-02-23,Medicine,Health,Expense,1756.44,UPI
+2025-02-08,Movie tickets,Entertainment,Expense,1113.01,UPI
+2025-08-09,Online course,Education,Expense,4602.92,Cash
+2025-02-21,Movie tickets,Entertainment,Expense,1088.61,Card
+2025-10-11,Monthly salary,Salary,Income,35463.99,Card
+2025-01-26,Electricity bill,Bills,Expense,1605.06,Bank Transfer
+2025-07-04,Online course,Education,Expense,1066.05,UPI
+2025-11-17,Electricity bill,Bills,Expense,5369.42,Bank Transfer
+2025-11-23,Monthly salary,Salary,Income,25347.65,Card
+2025-06-07,Online course,Education,Expense,5497.0,Bank Transfer
+2025-10-06,Electricity bill,Bills,Expense,665.1,Bank Transfer
+2025-08-17,Freelance project,Freelance,Income,33470.08,UPI
+2025-05-18,Online course,Education,Expense,1771.03,UPI
+2025-02-13,Interest credit,Other,Income,48373.42,Card
+2025-10-29,Movie tickets,Entertainment,Expense,6311.93,Cash
+2025-08-03,Movie tickets,Entertainment,Expense,5334.16,Bank Transfer
+2025-02-10,House rent,Rent,Expense,3137.6,Bank Transfer
+2025-09-22,Groceries,Food,Expense,3303.49,Cash
+2025-03-27,Freelance project,Freelance,Income,23643.95,Cash
+2025-02-10,Online purchase,Shopping,Expense,353.98,Bank Transfer
+2025-11-01,Interest credit,Other,Income,22393.91,Card
+2025-10-12,Cab fare,Transport,Expense,638.72,Bank Transfer
+2025-01-07,Electricity bill,Bills,Expense,3416.4,Bank Transfer
+2025-10-29,Monthly salary,Salary,Income,22409.99,UPI
+2025-10-02,Cab fare,Transport,Expense,5124.49,Card
+2025-09-06,Electricity bill,Bills,Expense,2539.14,Bank Transfer
+2025-11-13,Freelance project,Freelance,Income,35148.7,Bank Transfer
+2025-01-26,Freelance project,Freelance,Income,49525.69,Bank Transfer
+2025-06-05,Medicine,Health,Expense,209.9,Card
+2025-12-17,Online course,Education,Expense,5589.87,UPI
+2025-08-15,House rent,Rent,Expense,942.76,Card
+2025-02-15,Movie tickets,Entertainment,Expense,3963.97,Cash
+2025-09-22,Movie tickets,Entertainment,Expense,4836.87,Card
+2025-12-30,Online purchase,Shopping,Expense,501.26,Bank Transfer
+2025-01-15,Interest credit,Other,Income,58966.63,Cash
+2025-05-08,Monthly salary,Salary,Income,56848.83,UPI
+2025-05-21,Medicine,Health,Expense,4603.75,Card
+2025-03-05,Movie tickets,Entertainment,Expense,4159.33,UPI
+2025-04-01,Online course,Education,Expense,3893.76,Bank Transfer
+2025-05-13,Medicine,Health,Expense,2290.08,UPI
+2025-10-20,Movie tickets,Entertainment,Expense,398.76,Cash
+2025-05-18,House rent,Rent,Expense,4430.8,Bank Transfer
+2025-03-09,Groceries,Food,Expense,3123.7,Cash
+2025-11-08,Groceries,Food,Expense,1516.6,Card
+2025-07-12,Electricity bill,Bills,Expense,2800.84,Card
+2025-12-13,House rent,Rent,Expense,3076.2,Bank Transfer
+2025-12-06,Groceries,Food,Expense,3363.92,Card
+2025-02-25,Electricity bill,Bills,Expense,1996.22,Bank Transfer
+2025-05-22,Freelance project,Freelance,Income,47029.74,Card
+2025-09-22,Electricity bill,Bills,Expense,1289.27,Cash
+2025-12-15,Movie tickets,Entertainment,Expense,4320.6,Cash
+2025-05-13,Online course,Education,Expense,6483.75,Bank Transfer
+2025-10-20,Groceries,Food,Expense,3823.01,Cash
+2025-11-23,House rent,Rent,Expense,4486.16,Bank Transfer
+2025-03-29,Medicine,Health,Expense,3336.96,Cash
+2025-05-13,Online course,Education,Expense,901.4,Cash
+2025-04-24,Medicine,Health,Expense,4281.47,Card
+2025-06-19,Electricity bill,Bills,Expense,2779.43,Card
+2025-03-02,Electricity bill,Bills,Expense,3057.34,Bank Transfer
+2025-11-14,Interest credit,Other,Income,44178.73,UPI
+2025-12-15,House rent,Rent,Expense,3293.06,Bank Transfer
+2025-03-19,Movie tickets,Entertainment,Expense,427.08,Cash
+2025-10-19,Medicine,Health,Expense,2707.01,Bank Transfer
+2025-02-11,Interest credit,Other,Income,24017.84,Bank Transfer
+2025-01-30,Online purchase,Shopping,Expense,2092.12,UPI
+2025-03-28,House rent,Rent,Expense,4966.86,Cash
+2025-08-11,Cab fare,Transport,Expense,910.79,Bank Transfer
+2025-01-20,Online course,Education,Expense,2540.89,Cash
+2025-09-29,Groceries,Food,Expense,5806.68,Cash
+2025-05-08,Monthly salary,Salary,Income,46334.35,Cash
+2025-02-22,Medicine,Health,Expense,2083.63,Bank Transfer
+2025-01-24,Electricity bill,Bills,Expense,1152.27,Card
+2025-11-02,Online course,Education,Expense,4752.68,Card
+2025-09-08,Online purchase,Shopping,Expense,2280.34,Card
+2025-07-26,Online purchase,Shopping,Expense,6166.7,UPI
+2025-01-12,Online purchase,Shopping,Expense,1435.84,Cash
+2025-01-20,Interest credit,Other,Income,47527.02,Bank Transfer
+2025-11-16,Electricity bill,Bills,Expense,5031.42,UPI
+2025-12-01,Groceries,Food,Expense,4329.85,UPI
+2025-07-14,Monthly salary,Salary,Income,35838.78,UPI
+2025-04-16,Online course,Education,Expense,4585.99,UPI
+2025-05-19,Cab fare,Transport,Expense,4333.14,Cash
+2025-11-13,Cab fare,Transport,Expense,3364.37,UPI
+2025-11-08,Cab fare,Transport,Expense,3275.48,Cash
+2025-07-29,House rent,Rent,Expense,2377.86,Card
+2025-04-17,Interest credit,Other,Income,39817.74,Bank Transfer
+2025-02-15,Groceries,Food,Expense,161.85,UPI
+2025-02-16,Online course,Education,Expense,1037.51,UPI
+2025-11-26,Cab fare,Transport,Expense,5888.68,Cash
+2025-01-26,Electricity bill,Bills,Expense,1775.68,UPI
+2025-07-04,Groceries,Food,Expense,5551.44,Card
+2025-01-24,Cab fare,Transport,Expense,689.89,UPI
+2025-08-13,Online purchase,Shopping,Expense,2190.0,Card
+2025-06-25,Cab fare,Transport,Expense,2472.23,Cash
+2025-05-20,Freelance project,Freelance,Income,63115.5,Bank Transfer
+2025-11-29,Online course,Education,Expense,5215.35,Cash
+2025-03-23,Interest credit,Other,Income,51320.56,UPI
+2025-12-14,Online course,Education,Expense,5230.54,Bank Transfer
+2025-11-10,Freelance project,Freelance,Income,53958.21,UPI
+2025-09-07,Online purchase,Shopping,Expense,3181.37,UPI
+2025-05-14,Online course,Education,Expense,375.14,Card
+2025-10-23,Interest credit,Other,Income,41240.9,Cash
+2025-12-19,Medicine,Health,Expense,3412.62,UPI
+2025-12-06,House rent,Rent,Expense,3173.99,Bank Transfer
+2025-11-10,Interest credit,Other,Income,59603.09,UPI
+2025-08-29,Monthly salary,Salary,Income,40278.38,Bank Transfer
+2025-06-14,Cab fare,Transport,Expense,4904.18,Cash
+2025-04-25,Electricity bill,Bills,Expense,403.25,Bank Transfer
+2025-08-16,House rent,Rent,Expense,586.09,Bank Transfer
+2025-03-02,Freelance project,Freelance,Income,37353.41,Bank Transfer
+2025-07-31,Groceries,Food,Expense,738.97,UPI
+2025-11-06,Groceries,Food,Expense,5382.33,Card
+2025-08-22,House rent,Rent,Expense,4282.51,Card
+2025-08-21,Groceries,Food,Expense,5322.5,Card
+2025-07-06,Online course,Education,Expense,4680.94,Bank Transfer
+2025-06-24,Interest credit,Other,Income,26087.36,Card
+2025-07-11,Electricity bill,Bills,Expense,3596.17,UPI
+2025-07-29,Monthly salary,Salary,Income,39621.11,UPI
+2025-07-21,House rent,Rent,Expense,1284.03,Cash
+2025-02-25,House rent,Rent,Expense,4681.78,Bank Transfer
+2025-10-29,Interest credit,Other,Income,56873.31,UPI
+2025-10-29,Online course,Education,Expense,3016.43,Cash
+2025-01-25,Groceries,Food,Expense,3484.94,Bank Transfer
+2025-04-01,Online course,Education,Expense,6014.46,Cash
+2025-12-03,Online purchase,Shopping,Expense,744.82,Card
+2025-11-08,Movie tickets,Entertainment,Expense,2767.83,Cash
+2025-08-20,Medicine,Health,Expense,6310.56,Cash
+2025-09-20,Interest credit,Other,Income,50000.71,Card
+2025-10-11,Medicine,Health,Expense,4650.23,Cash
+2025-12-18,Interest credit,Other,Income,50719.23,Card
+2025-11-29,Online purchase,Shopping,Expense,6380.17,Cash
+2025-06-30,Medicine,Health,Expense,4640.46,Bank Transfer
+2025-10-01,Movie tickets,Entertainment,Expense,4408.64,Card
+2025-09-25,Movie tickets,Entertainment,Expense,5269.32,UPI
+2025-01-29,Monthly salary,Salary,Income,17653.25,Cash
+2025-12-16,Online purchase,Shopping,Expense,6394.28,Card
+2025-06-01,Monthly salary,Salary,Income,49529.74,Cash
+2025-08-20,Groceries,Food,Expense,2382.74,UPI
+2025-10-15,House rent,Rent,Expense,4846.29,Bank Transfer
+2025-01-25,Electricity bill,Bills,Expense,4528.65,Bank Transfer
+2025-01-28,Medicine,Health,Expense,6280.65,UPI
+2025-08-15,House rent,Rent,Expense,4064.01,Cash
+2025-10-07,Medicine,Health,Expense,4927.79,Cash
+2025-04-01,House rent,Rent,Expense,1968.62,UPI
+2025-03-03,Monthly salary,Salary,Income,51753.97,Bank Transfer
+2025-03-08,Freelance project,Freelance,Income,42829.93,Cash
+2025-08-27,Electricity bill,Bills,Expense,116.24,Cash
+2025-11-17,Freelance project,Freelance,Income,44844.02,Card
+2025-12-29,Medicine,Health,Expense,547.89,Card
+2025-09-16,Online purchase,Shopping,Expense,3422.29,Cash
+2025-04-24,Movie tickets,Entertainment,Expense,670.29,Cash
+2025-04-22,Medicine,Health,Expense,2396.32,Bank Transfer
+2025-06-27,Groceries,Food,Expense,816.51,Bank Transfer
+2025-12-16,House rent,Rent,Expense,6236.12,Card
+2025-10-04,Cab fare,Transport,Expense,2557.32,Card
+2025-07-11,Interest credit,Other,Income,56105.45,Bank Transfer
+2025-04-09,Electricity bill,Bills,Expense,5846.97,Card
+2025-10-03,Cab fare,Transport,Expense,1154.67,UPI
+2025-04-20,House rent,Rent,Expense,4383.55,Bank Transfer
+2025-12-26,House rent,Rent,Expense,3532.38,Bank Transfer
+2025-03-20,Cab fare,Transport,Expense,4875.04,UPI
+2025-02-07,Medicine,Health,Expense,323.23,UPI
+2025-10-22,Freelance project,Freelance,Income,42904.21,Cash
+2025-11-19,Movie tickets,Entertainment,Expense,2571.17,Bank Transfer
+2025-03-02,Groceries,Food,Expense,2580.6,UPI
+2025-10-27,Cab fare,Transport,Expense,4933.27,UPI
+2025-09-15,Cab fare,Transport,Expense,2376.43,UPI
+2025-05-25,Electricity bill,Bills,Expense,3974.15,Bank Transfer
+2025-10-01,Groceries,Food,Expense,3123.0,Cash
+2025-10-07,Freelance project,Freelance,Income,54838.52,Card
+2025-11-28,Online purchase,Shopping,Expense,1993.52,Card
+2025-10-12,Groceries,Food,Expense,3633.63,Cash
+2025-07-21,Monthly salary,Salary,Income,43635.93,UPI
+2025-11-27,Medicine,Health,Expense,1439.35,Cash
+2025-05-10,Monthly salary,Salary,Income,45844.25,Cash
+2025-01-28,Interest credit,Other,Income,54983.0,Bank Transfer
+2025-02-04,Cab fare,Transport,Expense,1945.99,Card
+2025-06-19,Interest credit,Other,Income,44029.78,Card
+2025-05-26,Interest credit,Other,Income,26726.64,UPI
+2025-06-18,Medicine,Health,Expense,3199.23,Card
+2025-07-06,Online purchase,Shopping,Expense,3710.84,Card
+2025-05-07,Online purchase,Shopping,Expense,111.02,Cash
+2025-07-04,Movie tickets,Entertainment,Expense,1856.28,Cash
+2025-08-25,Medicine,Health,Expense,5716.03,Bank Transfer
+2025-02-25,Electricity bill,Bills,Expense,3206.36,Cash
+2025-03-13,Cab fare,Transport,Expense,5484.31,Cash
+2025-01-10,Cab fare,Transport,Expense,4750.07,UPI
+2025-04-19,Movie tickets,Entertainment,Expense,5018.27,UPI
+2025-03-18,Online course,Education,Expense,4278.09,Card
+2025-09-14,Electricity bill,Bills,Expense,939.52,UPI
+2025-11-11,Groceries,Food,Expense,4334.4,Cash
+2025-04-02,Online purchase,Shopping,Expense,2944.74,Cash
+2025-01-21,Online course,Education,Expense,6109.51,Cash
+2025-07-09,House rent,Rent,Expense,483.57,Cash
+2025-07-04,Monthly salary,Salary,Income,40894.26,Bank Transfer
+2025-01-21,Online course,Education,Expense,5739.56,Card
+2025-05-21,Interest credit,Other,Income,46678.35,Card
+2025-07-13,Online purchase,Shopping,Expense,2498.15,Card
+2025-07-12,Cab fare,Transport,Expense,3396.98,Cash
+2025-06-26,Medicine,Health,Expense,5326.66,Bank Transfer
+2025-03-13,Groceries,Food,Expense,3301.79,Bank Transfer
+2025-05-24,Monthly salary,Salary,Income,40727.06,Cash
+2025-03-02,Monthly salary,Salary,Income,33111.15,Cash
+2025-09-04,Medicine,Health,Expense,4704.04,Bank Transfer
+2025-07-30,Online purchase,Shopping,Expense,4235.4,UPI
+2025-03-24,Online purchase,Shopping,Expense,3761.78,Cash
+2025-03-17,Groceries,Food,Expense,5798.92,UPI
+2025-07-27,Monthly salary,Salary,Income,40832.03,UPI
+2025-04-21,Electricity bill,Bills,Expense,6161.37,Bank Transfer
+2025-03-29,Online course,Education,Expense,5648.08,Cash
+2025-04-04,Online purchase,Shopping,Expense,5181.44,Card
+2025-08-21,Interest credit,Other,Income,32133.56,UPI
+2025-01-09,Movie tickets,Entertainment,Expense,928.81,Cash
+2025-11-07,Movie tickets,Entertainment,Expense,5386.22,UPI
+2025-09-30,Interest credit,Other,Income,44990.69,UPI
+2025-11-05,Interest credit,Other,Income,21516.44,UPI
+2025-07-09,Movie tickets,Entertainment,Expense,3431.52,UPI
+2025-09-04,Movie tickets,Entertainment,Expense,1553.3,Bank Transfer
+2025-05-11,Cab fare,Transport,Expense,2811.64,Bank Transfer
+2025-10-06,Cab fare,Transport,Expense,1898.57,Bank Transfer
+2025-01-04,Groceries,Food,Expense,4632.74,UPI
+2025-12-19,Movie tickets,Entertainment,Expense,4282.19,Card
+2025-11-30,Cab fare,Transport,Expense,1073.68,Card
+2025-11-10,Movie tickets,Entertainment,Expense,3705.18,Card
+2025-07-31,Movie tickets,Entertainment,Expense,4926.92,Bank Transfer
+2025-05-10,Interest credit,Other,Income,42745.57,Card
+2025-12-04,Movie tickets,Entertainment,Expense,4803.72,UPI
+2025-03-24,Online course,Education,Expense,5107.56,UPI
+2025-10-09,Freelance project,Freelance,Income,54304.06,UPI
+2025-02-16,Interest credit,Other,Income,15264.53,Cash
+2025-05-15,Movie tickets,Entertainment,Expense,645.86,Cash
+2025-07-25,Groceries,Food,Expense,4731.26,Card
+2025-03-31,Groceries,Food,Expense,6151.5,Bank Transfer
+2025-09-23,House rent,Rent,Expense,5540.64,Card
+2025-12-24,Interest credit,Other,Income,40527.39,Cash
+2025-12-02,Groceries,Food,Expense,2389.53,UPI
+2025-07-24,Cab fare,Transport,Expense,6479.57,Card
+2025-09-23,Movie tickets,Entertainment,Expense,3842.63,UPI
+2025-10-09,Cab fare,Transport,Expense,5981.12,Card
+2025-05-22,Medicine,Health,Expense,2310.79,Cash
+2025-07-26,House rent,Rent,Expense,2999.55,UPI
+2025-10-14,Movie tickets,Entertainment,Expense,3330.05,UPI
+2025-09-20,Medicine,Health,Expense,6159.84,Card
+2025-07-13,Electricity bill,Bills,Expense,4536.71,Bank Transfer
+2025-08-23,Medicine,Health,Expense,6251.15,Bank Transfer
+2025-05-13,Groceries,Food,Expense,3174.25,UPI
+2025-04-28,House rent,Rent,Expense,4425.78,Card
+2025-01-05,Medicine,Health,Expense,3395.96,Card
+2025-06-25,Cab fare,Transport,Expense,2641.13,UPI
+2025-07-01,Online purchase,Shopping,Expense,3139.49,Cash
+2025-12-16,Electricity bill,Bills,Expense,1253.48,Cash
+2025-05-04,House rent,Rent,Expense,1587.81,Card
+2025-11-13,Monthly salary,Salary,Income,56747.02,Card
+2025-02-10,Monthly salary,Salary,Income,20993.92,Bank Transfer
+2025-07-10,Groceries,Food,Expense,5524.23,Card
+2025-09-19,Electricity bill,Bills,Expense,3230.97,Card
+2025-08-05,Online purchase,Shopping,Expense,427.63,Bank Transfer
+2025-07-21,Groceries,Food,Expense,3305.89,Cash
+2025-08-24,Cab fare,Transport,Expense,4562.73,Card
+2025-07-14,Groceries,Food,Expense,4407.74,UPI
+2025-05-15,Electricity bill,Bills,Expense,1281.52,Cash
+2025-09-13,Medicine,Health,Expense,2429.23,Bank Transfer
+2025-07-06,Interest credit,Other,Income,52609.79,Bank Transfer
+2025-10-22,Online purchase,Shopping,Expense,3748.45,Cash
+2025-10-12,Electricity bill,Bills,Expense,5242.24,Bank Transfer
+2025-03-18,House rent,Rent,Expense,1016.32,Bank Transfer
+2025-03-10,Online purchase,Shopping,Expense,2786.16,Card
+2025-10-18,Electricity bill,Bills,Expense,1691.25,UPI
+2025-05-11,Online purchase,Shopping,Expense,465.43,Bank Transfer
+2025-06-21,Cab fare,Transport,Expense,2968.07,Card
+2025-07-30,Electricity bill,Bills,Expense,2289.38,UPI
+2025-11-29,House rent,Rent,Expense,3783.4,Cash
+2025-12-11,Electricity bill,Bills,Expense,2359.8,Bank Transfer
+2025-07-15,Online course,Education,Expense,5791.44,Card
+2025-11-24,Online purchase,Shopping,Expense,5654.21,Card
+2025-02-06,Movie tickets,Entertainment,Expense,5529.94,UPI
+2025-12-01,Monthly salary,Salary,Income,30674.1,Card
+2025-08-16,Movie tickets,Entertainment,Expense,1821.41,Card
+2025-04-05,Online course,Education,Expense,2737.81,UPI
+2025-12-25,Monthly salary,Salary,Income,48101.13,UPI
+2025-02-02,Freelance project,Freelance,Income,20150.47,Bank Transfer
+2025-09-26,Groceries,Food,Expense,5029.39,UPI
+2025-12-02,Interest credit,Other,Income,22763.72,Bank Transfer
+2025-08-15,House rent,Rent,Expense,4815.35,Cash
+2025-12-06,Monthly salary,Salary,Income,16428.56,Card
+2025-08-28,Medicine,Health,Expense,5628.43,Card
+2025-12-24,Online purchase,Shopping,Expense,6304.46,Cash
+2025-11-22,Online course,Education,Expense,4131.33,Bank Transfer
+2025-09-04,Electricity bill,Bills,Expense,5915.29,Cash
+2025-07-31,Online course,Education,Expense,2056.51,Card
+2025-03-11,Monthly salary,Salary,Income,15004.62,Card
+2025-09-09,Groceries,Food,Expense,4495.48,Bank Transfer
+2025-11-02,Movie tickets,Entertainment,Expense,5202.93,Cash
+2025-10-15,Medicine,Health,Expense,1290.63,Bank Transfer
+2025-11-27,Online purchase,Shopping,Expense,4669.9,Bank Transfer
+2025-08-05,House rent,Rent,Expense,1768.33,Cash
+2025-09-30,Electricity bill,Bills,Expense,1907.63,Card
+2025-05-29,Cab fare,Transport,Expense,1251.05,UPI
+2025-11-15,Online course,Education,Expense,1827.1,Bank Transfer
+2025-10-01,Monthly salary,Salary,Income,22607.47,UPI
+2025-03-06,Monthly salary,Salary,Income,29105.73,Bank Transfer
+2025-01-08,House rent,Rent,Expense,659.06,Bank Transfer
+2025-09-13,Freelance project,Freelance,Income,30578.83,Card
+2025-03-16,Groceries,Food,Expense,2200.2,UPI
+2025-08-29,Movie tickets,Entertainment,Expense,538.29,Cash
+2025-01-07,Freelance project,Freelance,Income,55862.54,UPI
+2025-08-15,House rent,Rent,Expense,2550.4,Cash
+2025-02-18,Groceries,Food,Expense,1358.73,Cash
+2025-03-23,Electricity bill,Bills,Expense,6090.5,UPI
+2025-11-23,Cab fare,Transport,Expense,1706.27,Card
+2025-04-22,Monthly salary,Salary,Income,58182.88,UPI
+2025-03-27,Movie tickets,Entertainment,Expense,2163.38,Card
+2025-01-05,Movie tickets,Entertainment,Expense,5146.3,UPI
+2025-03-21,Online course,Education,Expense,4499.57,Card
+2025-02-16,House rent,Rent,Expense,1092.42,Card
+2025-11-27,Groceries,Food,Expense,463.76,Cash
+2025-04-30,Cab fare,Transport,Expense,887.81,Card
+2025-08-13,Medicine,Health,Expense,5251.47,Cash
+2025-03-10,Freelance project,Freelance,Income,32908.37,Card
+2025-10-14,Online course,Education,Expense,4616.54,Card
+2025-04-06,Online course,Education,Expense,1298.36,Card
+2025-11-03,Online course,Education,Expense,1847.58,Cash
+2025-05-15,Monthly salary,Salary,Income,37469.21,Card
+2025-01-10,Movie tickets,Entertainment,Expense,4790.08,Card
+2025-02-02,House rent,Rent,Expense,2138.86,Bank Transfer
+2025-10-10,Interest credit,Other,Income,39877.46,Cash
+2025-06-14,Medicine,Health,Expense,2710.95,UPI
+2025-03-08,Interest credit,Other,Income,18333.99,Cash
+2025-04-09,House rent,Rent,Expense,767.29,UPI
+2025-12-03,Interest credit,Other,Income,56814.98,Bank Transfer
+2025-04-24,Electricity bill,Bills,Expense,395.13,UPI
+2025-02-10,Monthly salary,Salary,Income,47787.47,Bank Transfer
+2025-08-01,Groceries,Food,Expense,2397.15,Card
+2025-05-17,Groceries,Food,Expense,5367.79,UPI
+2025-04-21,Electricity bill,Bills,Expense,580.35,UPI
+2025-04-08,Monthly salary,Salary,Income,41583.05,Cash
+2025-04-02,House rent,Rent,Expense,3739.58,Bank Transfer
+2025-12-26,Medicine,Health,Expense,4410.24,Bank Transfer
+2025-10-09,Online purchase,Shopping,Expense,5167.6,Bank Transfer
+2025-11-04,Online purchase,Shopping,Expense,3507.64,Bank Transfer
+2025-06-16,Medicine,Health,Expense,3611.52,Card
+2025-06-15,Movie tickets,Entertainment,Expense,5383.91,Cash
+2025-10-09,House rent,Rent,Expense,2487.9,Card
+2025-07-23,Online course,Education,Expense,2952.95,UPI
+2025-09-23,Electricity bill,Bills,Expense,3904.8,Cash
+2025-04-24,Electricity bill,Bills,Expense,122.17,Cash
+2025-12-20,Groceries,Food,Expense,5033.18,Card
+2025-08-24,Online purchase,Shopping,Expense,685.32,Card

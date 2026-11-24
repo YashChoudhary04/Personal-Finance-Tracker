@@ -1,0 +1,1231 @@
+transaction_date,description,category,transaction_type,amount,payment_method
+2025-01-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-01-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-01-20,Cab fare,Transport,Expense,172.41,Card
+2025-01-08,Internet bill,Bills,Expense,181.33,Cash
+2025-01-24,Medicine,Health,Expense,103.24,Cash
+2025-01-15,Medicine,Health,Expense,298.95,Cash
+2025-01-25,Metro,Transport,Expense,92.71,Cash
+2025-01-28,Coffee,Food,Expense,166.2,Cash
+2025-01-12,Medicine,Health,Expense,337.37,Card
+2025-01-05,Internet bill,Bills,Expense,148.32,Card
+2025-01-06,Medicine,Health,Expense,83.39,UPI
+2025-01-20,Cab fare,Transport,Expense,113.93,UPI
+2025-01-07,Medicine,Health,Expense,353.31,Cash
+2025-01-19,Metro,Transport,Expense,99.23,Cash
+2025-01-04,Online course,Education,Expense,405.41,Card
+2025-01-19,Cab fare,Transport,Expense,154.25,Card
+2025-01-06,Movie tickets,Entertainment,Expense,445.94,Card
+2025-01-17,Lunch,Food,Expense,187.73,Cash
+2025-01-20,Lunch,Food,Expense,101.46,Cash
+2025-01-09,Internet bill,Bills,Expense,130.73,UPI
+2025-01-09,Medicine,Health,Expense,117.85,UPI
+2025-01-04,Metro,Transport,Expense,74.9,Card
+2025-01-14,Cab fare,Transport,Expense,136.87,Card
+2025-01-18,Online purchase,Shopping,Expense,370.68,Cash
+2025-01-15,Lunch,Food,Expense,143.04,Card
+2025-01-09,Cab fare,Transport,Expense,135.92,UPI
+2025-01-28,Lunch,Food,Expense,176.92,Cash
+2025-01-19,Cab fare,Transport,Expense,82.93,Card
+2025-01-19,Medicine,Health,Expense,221.25,Card
+2025-01-14,Metro,Transport,Expense,21.66,Card
+2025-01-12,Online course,Education,Expense,428.7,Cash
+2025-01-10,Movie tickets,Entertainment,Expense,312.03,UPI
+2025-01-16,Internet bill,Bills,Expense,339.31,UPI
+2025-01-04,Metro,Transport,Expense,22.78,Cash
+2025-01-01,Groceries,Food,Expense,334.42,Cash
+2025-01-26,Internet bill,Bills,Expense,207.48,Cash
+2025-01-02,Cab fare,Transport,Expense,213.03,UPI
+2025-01-08,Groceries,Food,Expense,200.11,Card
+2025-01-06,Medicine,Health,Expense,159.55,Card
+2025-01-10,Movie tickets,Entertainment,Expense,388.57,Cash
+2025-01-18,Groceries,Food,Expense,468.65,Card
+2025-01-17,Online purchase,Shopping,Expense,551.21,UPI
+2025-01-16,Movie tickets,Entertainment,Expense,253.64,Cash
+2025-01-18,Internet bill,Bills,Expense,332.03,Cash
+2025-01-20,Lunch,Food,Expense,66.0,Card
+2025-01-16,Metro,Transport,Expense,81.88,UPI
+2025-01-26,Medicine,Health,Expense,113.04,UPI
+2025-01-23,Groceries,Food,Expense,471.4,UPI
+2025-01-16,Medicine,Health,Expense,223.16,Card
+2025-01-02,Metro,Transport,Expense,82.81,Cash
+2025-01-18,Movie tickets,Entertainment,Expense,270.0,UPI
+2025-01-08,Lunch,Food,Expense,77.12,Card
+2025-01-05,Online purchase,Shopping,Expense,112.02,UPI
+2025-01-20,Movie tickets,Entertainment,Expense,362.72,Card
+2025-01-19,Groceries,Food,Expense,262.61,Cash
+2025-01-11,Lunch,Food,Expense,237.33,Cash
+2025-01-22,Groceries,Food,Expense,356.66,Card
+2025-01-27,Internet bill,Bills,Expense,129.03,UPI
+2025-01-27,Metro,Transport,Expense,98.44,UPI
+2025-01-03,Online purchase,Shopping,Expense,100.02,Card
+2025-01-02,Medicine,Health,Expense,123.26,Cash
+2025-01-05,Online course,Education,Expense,101.71,Cash
+2025-01-26,Lunch,Food,Expense,224.25,Card
+2025-01-01,Internet bill,Bills,Expense,188.89,Cash
+2025-01-10,Coffee,Food,Expense,135.36,Card
+2025-01-01,Internet bill,Bills,Expense,264.52,UPI
+2025-01-12,Groceries,Food,Expense,460.39,UPI
+2025-01-13,Metro,Transport,Expense,55.63,Cash
+2025-01-01,Movie tickets,Entertainment,Expense,200.93,Cash
+2025-01-26,Online course,Education,Expense,369.0,Cash
+2025-01-17,Coffee,Food,Expense,121.79,Cash
+2025-01-21,Groceries,Food,Expense,127.86,Cash
+2025-01-19,Movie tickets,Entertainment,Expense,253.84,Card
+2025-01-09,Metro,Transport,Expense,74.45,Cash
+2025-01-26,Coffee,Food,Expense,44.24,Card
+2025-01-08,Lunch,Food,Expense,133.72,Card
+2025-01-25,Cab fare,Transport,Expense,95.53,UPI
+2025-01-09,Coffee,Food,Expense,158.98,UPI
+2025-01-26,Coffee,Food,Expense,52.67,Card
+2025-01-02,Internet bill,Bills,Expense,108.4,Card
+2025-01-21,Online course,Education,Expense,199.07,Cash
+2025-01-08,Lunch,Food,Expense,230.88,UPI
+2025-01-23,Cab fare,Transport,Expense,174.9,Card
+2025-01-15,Movie tickets,Entertainment,Expense,376.45,Cash
+2025-01-20,Cab fare,Transport,Expense,118.21,UPI
+2025-01-11,Movie tickets,Entertainment,Expense,299.16,Cash
+2025-01-06,Groceries,Food,Expense,343.89,Cash
+2025-01-28,Online purchase,Shopping,Expense,673.9,Cash
+2025-01-18,Medicine,Health,Expense,95.25,UPI
+2025-01-01,Internet bill,Bills,Expense,304.76,Cash
+2025-01-21,Movie tickets,Entertainment,Expense,218.33,Card
+2025-01-05,Online purchase,Shopping,Expense,658.41,UPI
+2025-01-17,Coffee,Food,Expense,147.77,UPI
+2025-01-08,Online course,Education,Expense,416.52,Cash
+2025-01-19,Metro,Transport,Expense,58.08,Card
+2025-01-06,Movie tickets,Entertainment,Expense,240.57,Card
+2025-01-11,Movie tickets,Entertainment,Expense,427.23,Cash
+2025-01-01,Cab fare,Transport,Expense,66.42,Cash
+2025-01-10,Online purchase,Shopping,Expense,239.1,UPI
+2025-01-17,Cab fare,Transport,Expense,195.91,UPI
+2025-01-10,Metro,Transport,Expense,67.55,UPI
+2025-01-25,Metro,Transport,Expense,29.02,Card
+2025-02-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-02-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-02-13,Freelance project,Freelance,Income,6000.0,Bank Transfer
+2025-02-23,Cab fare,Transport,Expense,191.6,UPI
+2025-02-19,Groceries,Food,Expense,317.34,Card
+2025-02-25,Internet bill,Bills,Expense,276.4,UPI
+2025-02-03,Internet bill,Bills,Expense,139.43,Card
+2025-02-27,Lunch,Food,Expense,82.6,Card
+2025-02-28,Cab fare,Transport,Expense,149.04,UPI
+2025-02-04,Coffee,Food,Expense,58.7,Card
+2025-02-11,Lunch,Food,Expense,133.32,UPI
+2025-02-04,Movie tickets,Entertainment,Expense,459.52,Cash
+2025-02-06,Medicine,Health,Expense,225.52,Card
+2025-02-21,Cab fare,Transport,Expense,116.72,Card
+2025-02-11,Lunch,Food,Expense,62.83,UPI
+2025-02-13,Internet bill,Bills,Expense,160.85,Card
+2025-02-12,Cab fare,Transport,Expense,141.87,UPI
+2025-02-14,Medicine,Health,Expense,95.95,UPI
+2025-02-21,Metro,Transport,Expense,47.44,UPI
+2025-02-23,Internet bill,Bills,Expense,366.72,Cash
+2025-02-25,Online purchase,Shopping,Expense,760.29,Card
+2025-02-10,Metro,Transport,Expense,77.18,Cash
+2025-02-06,Coffee,Food,Expense,137.49,Card
+2025-02-09,Cab fare,Transport,Expense,98.83,Card
+2025-02-07,Groceries,Food,Expense,157.39,Cash
+2025-02-04,Medicine,Health,Expense,154.91,UPI
+2025-02-24,Coffee,Food,Expense,134.25,Cash
+2025-02-09,Groceries,Food,Expense,323.74,UPI
+2025-02-05,Movie tickets,Entertainment,Expense,191.88,Cash
+2025-02-01,Online purchase,Shopping,Expense,484.59,Cash
+2025-02-09,Internet bill,Bills,Expense,383.76,Cash
+2025-02-24,Coffee,Food,Expense,46.93,UPI
+2025-02-07,Lunch,Food,Expense,195.12,Card
+2025-02-07,Medicine,Health,Expense,241.44,Card
+2025-02-04,Medicine,Health,Expense,237.98,Cash
+2025-02-16,Groceries,Food,Expense,488.93,Cash
+2025-02-11,Metro,Transport,Expense,43.27,Cash
+2025-02-03,Internet bill,Bills,Expense,340.32,UPI
+2025-02-03,Movie tickets,Entertainment,Expense,198.63,UPI
+2025-02-09,Lunch,Food,Expense,144.41,Card
+2025-02-25,Metro,Transport,Expense,50.76,Cash
+2025-02-08,Online course,Education,Expense,398.13,UPI
+2025-02-03,Medicine,Health,Expense,243.01,Card
+2025-02-25,Coffee,Food,Expense,132.09,Card
+2025-02-26,Lunch,Food,Expense,239.68,Cash
+2025-02-11,Lunch,Food,Expense,128.38,Card
+2025-02-23,Lunch,Food,Expense,202.14,Cash
+2025-02-12,Medicine,Health,Expense,139.26,UPI
+2025-02-04,Medicine,Health,Expense,238.09,Card
+2025-02-22,Lunch,Food,Expense,70.47,Cash
+2025-02-02,Groceries,Food,Expense,155.34,Card
+2025-02-20,Online purchase,Shopping,Expense,240.2,Card
+2025-02-13,Online purchase,Shopping,Expense,127.52,Cash
+2025-02-27,Online purchase,Shopping,Expense,127.84,Cash
+2025-02-17,Cab fare,Transport,Expense,214.67,UPI
+2025-02-24,Cab fare,Transport,Expense,73.67,UPI
+2025-02-18,Coffee,Food,Expense,97.17,UPI
+2025-02-11,Movie tickets,Entertainment,Expense,328.11,Cash
+2025-02-14,Online course,Education,Expense,390.83,UPI
+2025-02-16,Internet bill,Bills,Expense,106.27,UPI
+2025-02-04,Groceries,Food,Expense,385.13,UPI
+2025-02-20,Online course,Education,Expense,104.88,Card
+2025-02-04,Online purchase,Shopping,Expense,310.56,UPI
+2025-02-18,Groceries,Food,Expense,390.8,Cash
+2025-02-06,Movie tickets,Entertainment,Expense,199.93,Cash
+2025-02-14,Lunch,Food,Expense,96.79,Cash
+2025-02-17,Coffee,Food,Expense,66.0,Card
+2025-02-08,Lunch,Food,Expense,111.85,Cash
+2025-02-02,Online purchase,Shopping,Expense,156.95,Cash
+2025-02-16,Movie tickets,Entertainment,Expense,172.24,Card
+2025-02-14,Internet bill,Bills,Expense,194.86,Cash
+2025-02-25,Metro,Transport,Expense,63.74,UPI
+2025-02-12,Groceries,Food,Expense,115.62,Card
+2025-02-26,Internet bill,Bills,Expense,398.14,UPI
+2025-02-01,Internet bill,Bills,Expense,374.84,Cash
+2025-02-17,Cab fare,Transport,Expense,180.81,UPI
+2025-02-20,Movie tickets,Entertainment,Expense,294.2,Card
+2025-02-19,Metro,Transport,Expense,30.44,Cash
+2025-02-04,Coffee,Food,Expense,58.44,Card
+2025-02-13,Metro,Transport,Expense,88.15,Cash
+2025-02-28,Cab fare,Transport,Expense,204.64,Cash
+2025-02-20,Cab fare,Transport,Expense,109.47,Card
+2025-02-22,Medicine,Health,Expense,258.78,Cash
+2025-02-02,Coffee,Food,Expense,169.71,Card
+2025-02-04,Lunch,Food,Expense,134.13,UPI
+2025-02-13,Metro,Transport,Expense,46.65,Cash
+2025-02-10,Cab fare,Transport,Expense,163.19,UPI
+2025-02-28,Medicine,Health,Expense,343.52,UPI
+2025-02-16,Movie tickets,Entertainment,Expense,381.75,UPI
+2025-02-18,Medicine,Health,Expense,173.41,Cash
+2025-02-05,Internet bill,Bills,Expense,202.56,Card
+2025-02-09,Medicine,Health,Expense,295.39,UPI
+2025-02-15,Cab fare,Transport,Expense,135.44,Cash
+2025-02-10,Groceries,Food,Expense,358.8,Cash
+2025-02-28,Medicine,Health,Expense,181.94,Card
+2025-02-05,Online purchase,Shopping,Expense,159.91,Card
+2025-02-17,Online course,Education,Expense,405.48,UPI
+2025-02-20,Lunch,Food,Expense,224.81,UPI
+2025-02-13,Internet bill,Bills,Expense,183.4,Cash
+2025-02-27,Movie tickets,Entertainment,Expense,139.78,Card
+2025-02-16,Internet bill,Bills,Expense,196.13,UPI
+2025-02-06,Metro,Transport,Expense,91.69,Cash
+2025-02-19,Groceries,Food,Expense,393.64,Card
+2025-03-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-03-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-03-28,Medicine,Health,Expense,336.06,Cash
+2025-03-23,Online course,Education,Expense,209.24,Cash
+2025-03-09,Metro,Transport,Expense,96.75,Cash
+2025-03-06,Metro,Transport,Expense,43.65,UPI
+2025-03-14,Lunch,Food,Expense,199.07,Card
+2025-03-19,Internet bill,Bills,Expense,234.4,UPI
+2025-03-16,Groceries,Food,Expense,214.91,UPI
+2025-03-08,Internet bill,Bills,Expense,110.28,UPI
+2025-03-19,Online purchase,Shopping,Expense,761.21,UPI
+2025-03-05,Online course,Education,Expense,385.8,Card
+2025-03-16,Coffee,Food,Expense,137.8,Card
+2025-03-23,Online purchase,Shopping,Expense,709.55,UPI
+2025-03-28,Lunch,Food,Expense,121.97,UPI
+2025-03-26,Online course,Education,Expense,344.69,Cash
+2025-03-04,Online course,Education,Expense,159.38,Cash
+2025-03-06,Coffee,Food,Expense,143.11,UPI
+2025-03-16,Movie tickets,Entertainment,Expense,401.88,UPI
+2025-03-12,Online purchase,Shopping,Expense,285.04,Cash
+2025-03-25,Internet bill,Bills,Expense,166.87,Cash
+2025-03-09,Coffee,Food,Expense,89.3,Card
+2025-03-03,Internet bill,Bills,Expense,111.33,Cash
+2025-03-28,Metro,Transport,Expense,65.22,UPI
+2025-03-01,Online course,Education,Expense,346.21,UPI
+2025-03-16,Lunch,Food,Expense,249.48,Cash
+2025-03-07,Coffee,Food,Expense,50.92,Cash
+2025-03-22,Internet bill,Bills,Expense,103.72,Cash
+2025-03-10,Metro,Transport,Expense,67.39,Cash
+2025-03-25,Metro,Transport,Expense,89.06,UPI
+2025-03-13,Groceries,Food,Expense,113.02,Cash
+2025-03-02,Coffee,Food,Expense,116.71,UPI
+2025-03-09,Online course,Education,Expense,263.09,Cash
+2025-03-05,Cab fare,Transport,Expense,167.48,Card
+2025-03-11,Cab fare,Transport,Expense,187.49,Cash
+2025-03-06,Cab fare,Transport,Expense,157.08,Cash
+2025-03-25,Internet bill,Bills,Expense,235.96,Cash
+2025-03-24,Internet bill,Bills,Expense,271.89,Card
+2025-03-19,Cab fare,Transport,Expense,215.34,Cash
+2025-03-24,Cab fare,Transport,Expense,64.71,Card
+2025-03-23,Movie tickets,Entertainment,Expense,387.83,UPI
+2025-03-04,Lunch,Food,Expense,216.77,Cash
+2025-03-18,Cab fare,Transport,Expense,84.52,UPI
+2025-03-03,Metro,Transport,Expense,66.69,Card
+2025-03-02,Cab fare,Transport,Expense,211.18,Card
+2025-03-12,Coffee,Food,Expense,118.71,UPI
+2025-03-21,Online purchase,Shopping,Expense,153.08,UPI
+2025-03-23,Coffee,Food,Expense,68.48,UPI
+2025-03-10,Movie tickets,Entertainment,Expense,336.06,Cash
+2025-03-19,Coffee,Food,Expense,65.7,UPI
+2025-03-04,Metro,Transport,Expense,52.0,Cash
+2025-03-04,Lunch,Food,Expense,212.52,Cash
+2025-03-11,Lunch,Food,Expense,63.88,Cash
+2025-03-17,Coffee,Food,Expense,158.09,UPI
+2025-03-12,Online purchase,Shopping,Expense,795.66,Cash
+2025-03-14,Groceries,Food,Expense,183.57,Cash
+2025-03-17,Groceries,Food,Expense,479.4,Cash
+2025-03-02,Online purchase,Shopping,Expense,140.89,UPI
+2025-03-04,Cab fare,Transport,Expense,211.46,Card
+2025-03-07,Coffee,Food,Expense,147.23,UPI
+2025-03-21,Medicine,Health,Expense,224.69,Cash
+2025-03-21,Online course,Education,Expense,359.71,Card
+2025-03-25,Online course,Education,Expense,253.77,Cash
+2025-03-21,Lunch,Food,Expense,215.78,UPI
+2025-03-04,Movie tickets,Entertainment,Expense,100.03,Card
+2025-03-01,Groceries,Food,Expense,443.71,UPI
+2025-03-16,Groceries,Food,Expense,251.1,UPI
+2025-03-23,Lunch,Food,Expense,248.96,Card
+2025-03-26,Groceries,Food,Expense,258.4,UPI
+2025-03-25,Metro,Transport,Expense,38.23,Card
+2025-03-15,Online purchase,Shopping,Expense,685.88,Cash
+2025-03-09,Internet bill,Bills,Expense,341.45,Card
+2025-03-26,Cab fare,Transport,Expense,136.07,UPI
+2025-03-11,Internet bill,Bills,Expense,263.2,UPI
+2025-03-28,Online course,Education,Expense,168.78,Card
+2025-03-12,Internet bill,Bills,Expense,253.06,Cash
+2025-03-07,Online course,Education,Expense,289.18,Card
+2025-03-15,Movie tickets,Entertainment,Expense,449.23,Cash
+2025-03-02,Online course,Education,Expense,428.72,Card
+2025-03-19,Cab fare,Transport,Expense,119.23,Card
+2025-03-04,Internet bill,Bills,Expense,126.25,Card
+2025-03-03,Medicine,Health,Expense,241.19,Cash
+2025-03-01,Cab fare,Transport,Expense,99.24,Card
+2025-03-25,Movie tickets,Entertainment,Expense,172.99,Cash
+2025-03-26,Lunch,Food,Expense,100.96,UPI
+2025-03-17,Metro,Transport,Expense,81.06,Card
+2025-03-28,Online purchase,Shopping,Expense,562.43,UPI
+2025-03-20,Medicine,Health,Expense,232.62,UPI
+2025-03-08,Metro,Transport,Expense,74.21,UPI
+2025-03-22,Lunch,Food,Expense,211.11,Card
+2025-03-13,Lunch,Food,Expense,107.86,Cash
+2025-03-05,Internet bill,Bills,Expense,213.95,UPI
+2025-03-19,Movie tickets,Entertainment,Expense,250.92,Card
+2025-03-19,Coffee,Food,Expense,57.97,UPI
+2025-03-13,Internet bill,Bills,Expense,325.82,Cash
+2025-03-27,Online purchase,Shopping,Expense,177.71,UPI
+2025-03-10,Cab fare,Transport,Expense,178.04,Card
+2025-03-22,Coffee,Food,Expense,146.49,Card
+2025-03-10,Metro,Transport,Expense,94.28,Card
+2025-03-23,Online course,Education,Expense,176.01,Cash
+2025-03-14,Online purchase,Shopping,Expense,262.9,Card
+2025-03-26,Online course,Education,Expense,149.25,Card
+2025-04-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-04-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-04-13,Freelance project,Freelance,Income,6000.0,Bank Transfer
+2025-04-12,Metro,Transport,Expense,91.46,UPI
+2025-04-27,Medicine,Health,Expense,286.57,UPI
+2025-04-05,Metro,Transport,Expense,27.88,Cash
+2025-04-13,Online course,Education,Expense,128.13,Card
+2025-04-18,Lunch,Food,Expense,218.44,Card
+2025-04-23,Medicine,Health,Expense,118.33,UPI
+2025-04-27,Groceries,Food,Expense,460.23,UPI
+2025-04-11,Internet bill,Bills,Expense,157.93,Card
+2025-04-03,Medicine,Health,Expense,375.66,Cash
+2025-04-16,Lunch,Food,Expense,157.19,UPI
+2025-04-22,Groceries,Food,Expense,403.8,Card
+2025-04-20,Coffee,Food,Expense,50.25,Cash
+2025-04-11,Online purchase,Shopping,Expense,617.96,UPI
+2025-04-03,Groceries,Food,Expense,313.26,Cash
+2025-04-26,Coffee,Food,Expense,135.99,Cash
+2025-04-26,Internet bill,Bills,Expense,165.29,Card
+2025-04-05,Online purchase,Shopping,Expense,780.3,Card
+2025-04-24,Medicine,Health,Expense,165.37,UPI
+2025-04-10,Coffee,Food,Expense,65.73,UPI
+2025-04-09,Metro,Transport,Expense,41.51,UPI
+2025-04-22,Internet bill,Bills,Expense,180.83,Cash
+2025-04-26,Medicine,Health,Expense,160.87,Cash
+2025-04-04,Online course,Education,Expense,414.65,Card
+2025-04-09,Online course,Education,Expense,162.91,Card
+2025-04-24,Medicine,Health,Expense,128.78,Card
+2025-04-20,Coffee,Food,Expense,101.95,UPI
+2025-04-15,Groceries,Food,Expense,234.95,Cash
+2025-04-12,Metro,Transport,Expense,29.26,Cash
+2025-04-17,Internet bill,Bills,Expense,113.84,UPI
+2025-04-04,Internet bill,Bills,Expense,311.06,Card
+2025-04-15,Movie tickets,Entertainment,Expense,488.13,Cash
+2025-04-18,Online course,Education,Expense,135.89,Card
+2025-04-12,Groceries,Food,Expense,183.3,UPI
+2025-04-26,Movie tickets,Entertainment,Expense,488.79,Cash
+2025-04-13,Cab fare,Transport,Expense,178.07,Card
+2025-04-10,Lunch,Food,Expense,206.22,Cash
+2025-04-10,Movie tickets,Entertainment,Expense,275.53,Cash
+2025-04-07,Movie tickets,Entertainment,Expense,432.84,UPI
+2025-04-11,Groceries,Food,Expense,372.24,Cash
+2025-04-19,Lunch,Food,Expense,205.44,Cash
+2025-04-20,Groceries,Food,Expense,177.04,Cash
+2025-04-03,Movie tickets,Entertainment,Expense,271.44,Card
+2025-04-23,Medicine,Health,Expense,95.49,Card
+2025-04-13,Metro,Transport,Expense,42.34,Card
+2025-04-17,Coffee,Food,Expense,170.81,Card
+2025-04-02,Cab fare,Transport,Expense,142.78,Card
+2025-04-28,Metro,Transport,Expense,20.86,Cash
+2025-04-18,Lunch,Food,Expense,211.56,Cash
+2025-04-02,Coffee,Food,Expense,108.56,UPI
+2025-04-24,Movie tickets,Entertainment,Expense,491.18,Cash
+2025-04-06,Metro,Transport,Expense,63.07,Card
+2025-04-11,Cab fare,Transport,Expense,207.98,Card
+2025-04-12,Internet bill,Bills,Expense,387.76,UPI
+2025-04-02,Cab fare,Transport,Expense,213.81,Cash
+2025-04-08,Movie tickets,Entertainment,Expense,421.25,Card
+2025-04-06,Lunch,Food,Expense,164.68,UPI
+2025-04-04,Internet bill,Bills,Expense,111.29,UPI
+2025-04-04,Internet bill,Bills,Expense,168.71,UPI
+2025-04-06,Groceries,Food,Expense,293.96,UPI
+2025-04-01,Internet bill,Bills,Expense,365.4,Card
+2025-04-05,Internet bill,Bills,Expense,357.39,Card
+2025-04-19,Online purchase,Shopping,Expense,761.88,UPI
+2025-04-07,Groceries,Food,Expense,429.9,Card
+2025-04-17,Coffee,Food,Expense,95.42,Card
+2025-04-19,Groceries,Food,Expense,394.2,UPI
+2025-04-03,Groceries,Food,Expense,197.26,Card
+2025-04-22,Online purchase,Shopping,Expense,684.86,Cash
+2025-04-05,Groceries,Food,Expense,221.77,UPI
+2025-04-04,Medicine,Health,Expense,348.66,Cash
+2025-04-16,Metro,Transport,Expense,90.52,UPI
+2025-04-15,Medicine,Health,Expense,229.82,Card
+2025-04-22,Movie tickets,Entertainment,Expense,322.92,Card
+2025-04-20,Movie tickets,Entertainment,Expense,278.58,Cash
+2025-04-03,Internet bill,Bills,Expense,227.71,UPI
+2025-04-19,Medicine,Health,Expense,302.69,Cash
+2025-04-10,Groceries,Food,Expense,421.51,Card
+2025-04-10,Online course,Education,Expense,340.58,Card
+2025-04-01,Online course,Education,Expense,437.92,UPI
+2025-04-02,Cab fare,Transport,Expense,108.22,UPI
+2025-04-11,Internet bill,Bills,Expense,245.14,Card
+2025-04-06,Online purchase,Shopping,Expense,418.14,UPI
+2025-04-13,Online purchase,Shopping,Expense,216.29,Cash
+2025-04-21,Internet bill,Bills,Expense,179.29,UPI
+2025-04-12,Movie tickets,Entertainment,Expense,448.15,Cash
+2025-04-06,Online course,Education,Expense,110.77,UPI
+2025-04-11,Movie tickets,Entertainment,Expense,455.05,Cash
+2025-04-23,Coffee,Food,Expense,66.69,Cash
+2025-04-16,Lunch,Food,Expense,69.75,Card
+2025-04-21,Movie tickets,Entertainment,Expense,207.13,Card
+2025-04-21,Online purchase,Shopping,Expense,281.38,Card
+2025-04-06,Cab fare,Transport,Expense,155.77,Card
+2025-04-12,Groceries,Food,Expense,378.77,Cash
+2025-04-16,Coffee,Food,Expense,78.05,Card
+2025-04-10,Cab fare,Transport,Expense,141.99,Card
+2025-04-02,Lunch,Food,Expense,236.58,Cash
+2025-04-04,Groceries,Food,Expense,367.7,Card
+2025-04-28,Online course,Education,Expense,293.82,UPI
+2025-04-11,Movie tickets,Entertainment,Expense,175.95,UPI
+2025-04-23,Metro,Transport,Expense,51.76,Card
+2025-04-20,Cab fare,Transport,Expense,185.29,UPI
+2025-05-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-05-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-05-02,Cab fare,Transport,Expense,130.83,UPI
+2025-05-11,Online course,Education,Expense,319.08,Cash
+2025-05-15,Movie tickets,Entertainment,Expense,303.46,Cash
+2025-05-25,Coffee,Food,Expense,63.43,Cash
+2025-05-06,Medicine,Health,Expense,155.32,UPI
+2025-05-27,Lunch,Food,Expense,131.99,Cash
+2025-05-21,Cab fare,Transport,Expense,169.98,UPI
+2025-05-23,Cab fare,Transport,Expense,72.08,Card
+2025-05-22,Cab fare,Transport,Expense,142.8,Card
+2025-05-25,Movie tickets,Entertainment,Expense,191.0,UPI
+2025-05-27,Cab fare,Transport,Expense,120.98,UPI
+2025-05-26,Internet bill,Bills,Expense,330.89,Card
+2025-05-08,Medicine,Health,Expense,383.8,Card
+2025-05-14,Coffee,Food,Expense,85.94,UPI
+2025-05-01,Medicine,Health,Expense,219.99,Card
+2025-05-15,Medicine,Health,Expense,140.47,Cash
+2025-05-04,Cab fare,Transport,Expense,61.57,UPI
+2025-05-22,Online purchase,Shopping,Expense,566.81,UPI
+2025-05-24,Coffee,Food,Expense,112.06,UPI
+2025-05-15,Online purchase,Shopping,Expense,621.74,Cash
+2025-05-21,Cab fare,Transport,Expense,146.39,Card
+2025-05-25,Coffee,Food,Expense,125.01,Cash
+2025-05-18,Lunch,Food,Expense,81.02,Card
+2025-05-25,Metro,Transport,Expense,35.98,UPI
+2025-05-03,Movie tickets,Entertainment,Expense,179.92,UPI
+2025-05-17,Movie tickets,Entertainment,Expense,297.69,Cash
+2025-05-15,Coffee,Food,Expense,160.45,Cash
+2025-05-26,Online course,Education,Expense,172.91,Cash
+2025-05-15,Internet bill,Bills,Expense,315.89,Cash
+2025-05-15,Medicine,Health,Expense,210.7,Cash
+2025-05-07,Medicine,Health,Expense,83.07,UPI
+2025-05-08,Medicine,Health,Expense,149.76,Cash
+2025-05-14,Movie tickets,Entertainment,Expense,319.93,Cash
+2025-05-25,Metro,Transport,Expense,59.49,Card
+2025-05-21,Medicine,Health,Expense,195.98,UPI
+2025-05-09,Internet bill,Bills,Expense,292.17,Cash
+2025-05-12,Medicine,Health,Expense,139.81,Card
+2025-05-14,Online course,Education,Expense,399.54,UPI
+2025-05-13,Online course,Education,Expense,256.75,UPI
+2025-05-10,Medicine,Health,Expense,99.94,Card
+2025-05-03,Lunch,Food,Expense,245.84,UPI
+2025-05-07,Online purchase,Shopping,Expense,295.23,UPI
+2025-05-06,Online purchase,Shopping,Expense,701.91,UPI
+2025-05-04,Movie tickets,Entertainment,Expense,470.71,Card
+2025-05-16,Metro,Transport,Expense,39.88,UPI
+2025-05-24,Medicine,Health,Expense,86.34,Card
+2025-05-14,Online purchase,Shopping,Expense,597.37,UPI
+2025-05-23,Movie tickets,Entertainment,Expense,466.31,UPI
+2025-05-25,Online purchase,Shopping,Expense,671.41,Cash
+2025-05-10,Groceries,Food,Expense,140.55,Cash
+2025-05-16,Medicine,Health,Expense,270.76,Cash
+2025-05-04,Online purchase,Shopping,Expense,192.64,Card
+2025-05-01,Medicine,Health,Expense,323.73,Card
+2025-05-28,Medicine,Health,Expense,244.87,Card
+2025-05-01,Online course,Education,Expense,182.97,Cash
+2025-05-17,Internet bill,Bills,Expense,161.96,UPI
+2025-05-25,Medicine,Health,Expense,113.2,Card
+2025-05-08,Online purchase,Shopping,Expense,609.15,Cash
+2025-05-20,Online course,Education,Expense,155.55,UPI
+2025-05-11,Movie tickets,Entertainment,Expense,251.86,UPI
+2025-05-16,Online purchase,Shopping,Expense,489.31,UPI
+2025-05-05,Internet bill,Bills,Expense,290.16,Card
+2025-05-27,Metro,Transport,Expense,31.89,Cash
+2025-05-28,Online purchase,Shopping,Expense,556.32,UPI
+2025-05-11,Groceries,Food,Expense,423.26,UPI
+2025-05-15,Cab fare,Transport,Expense,152.27,Card
+2025-05-09,Cab fare,Transport,Expense,106.49,UPI
+2025-05-14,Metro,Transport,Expense,62.51,Cash
+2025-05-08,Online course,Education,Expense,338.08,Cash
+2025-05-16,Internet bill,Bills,Expense,142.03,Cash
+2025-05-27,Cab fare,Transport,Expense,184.38,Cash
+2025-05-11,Medicine,Health,Expense,125.93,Cash
+2025-05-21,Online purchase,Shopping,Expense,653.84,Cash
+2025-05-28,Online purchase,Shopping,Expense,204.22,Card
+2025-05-23,Groceries,Food,Expense,394.57,Cash
+2025-05-03,Cab fare,Transport,Expense,204.68,Card
+2025-05-01,Medicine,Health,Expense,207.48,Cash
+2025-05-21,Lunch,Food,Expense,104.65,Card
+2025-05-05,Online course,Education,Expense,257.72,Cash
+2025-05-15,Movie tickets,Entertainment,Expense,400.97,UPI
+2025-05-14,Cab fare,Transport,Expense,191.55,Cash
+2025-05-14,Movie tickets,Entertainment,Expense,175.36,UPI
+2025-05-07,Online course,Education,Expense,421.16,UPI
+2025-05-24,Coffee,Food,Expense,96.13,UPI
+2025-05-18,Internet bill,Bills,Expense,364.29,Cash
+2025-05-25,Cab fare,Transport,Expense,77.33,Card
+2025-05-03,Cab fare,Transport,Expense,128.08,Cash
+2025-05-09,Coffee,Food,Expense,69.6,Cash
+2025-05-06,Medicine,Health,Expense,143.64,Card
+2025-05-14,Medicine,Health,Expense,210.06,Cash
+2025-05-02,Cab fare,Transport,Expense,137.31,UPI
+2025-05-24,Medicine,Health,Expense,221.88,Cash
+2025-05-23,Metro,Transport,Expense,44.1,UPI
+2025-05-23,Online course,Education,Expense,449.97,UPI
+2025-05-07,Internet bill,Bills,Expense,156.12,Cash
+2025-05-21,Internet bill,Bills,Expense,107.28,Cash
+2025-05-03,Lunch,Food,Expense,73.24,UPI
+2025-05-10,Internet bill,Bills,Expense,294.36,Card
+2025-05-11,Medicine,Health,Expense,265.73,Card
+2025-05-10,Groceries,Food,Expense,320.59,UPI
+2025-06-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-06-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-06-13,Freelance project,Freelance,Income,6000.0,Bank Transfer
+2025-06-03,Medicine,Health,Expense,399.33,UPI
+2025-06-13,Metro,Transport,Expense,27.41,Card
+2025-06-19,Internet bill,Bills,Expense,266.99,Cash
+2025-06-01,Groceries,Food,Expense,441.15,Card
+2025-06-09,Online course,Education,Expense,202.66,Cash
+2025-06-06,Internet bill,Bills,Expense,370.95,Card
+2025-06-26,Internet bill,Bills,Expense,174.01,UPI
+2025-06-04,Lunch,Food,Expense,182.79,UPI
+2025-06-13,Medicine,Health,Expense,123.07,Cash
+2025-06-19,Lunch,Food,Expense,102.4,Cash
+2025-06-09,Lunch,Food,Expense,65.54,UPI
+2025-06-15,Medicine,Health,Expense,355.06,Card
+2025-06-26,Medicine,Health,Expense,364.23,UPI
+2025-06-14,Online course,Education,Expense,193.57,Cash
+2025-06-15,Lunch,Food,Expense,121.79,Card
+2025-06-05,Lunch,Food,Expense,229.61,Cash
+2025-06-15,Online purchase,Shopping,Expense,748.36,Card
+2025-06-28,Online course,Education,Expense,105.43,Card
+2025-06-10,Online course,Education,Expense,178.91,UPI
+2025-06-21,Lunch,Food,Expense,65.06,Cash
+2025-06-19,Groceries,Food,Expense,336.45,Cash
+2025-06-01,Cab fare,Transport,Expense,179.32,Card
+2025-06-28,Medicine,Health,Expense,172.99,Card
+2025-06-28,Metro,Transport,Expense,56.58,Card
+2025-06-18,Movie tickets,Entertainment,Expense,231.67,Cash
+2025-06-05,Groceries,Food,Expense,139.84,Cash
+2025-06-22,Online course,Education,Expense,263.54,Cash
+2025-06-21,Metro,Transport,Expense,26.71,Card
+2025-06-13,Medicine,Health,Expense,387.5,Card
+2025-06-20,Online course,Education,Expense,411.83,Card
+2025-06-27,Metro,Transport,Expense,41.09,Cash
+2025-06-02,Internet bill,Bills,Expense,221.78,Cash
+2025-06-17,Coffee,Food,Expense,70.21,Card
+2025-06-04,Movie tickets,Entertainment,Expense,484.26,Card
+2025-06-06,Coffee,Food,Expense,122.72,Card
+2025-06-20,Movie tickets,Entertainment,Expense,251.97,UPI
+2025-06-09,Online course,Education,Expense,214.32,UPI
+2025-06-19,Movie tickets,Entertainment,Expense,489.02,Cash
+2025-06-17,Lunch,Food,Expense,67.32,UPI
+2025-06-12,Online course,Education,Expense,151.84,Card
+2025-06-06,Cab fare,Transport,Expense,188.12,Card
+2025-06-21,Coffee,Food,Expense,95.59,UPI
+2025-06-02,Metro,Transport,Expense,50.27,UPI
+2025-06-01,Internet bill,Bills,Expense,366.31,UPI
+2025-06-18,Groceries,Food,Expense,340.26,Card
+2025-06-26,Metro,Transport,Expense,30.45,Card
+2025-06-26,Cab fare,Transport,Expense,215.09,Cash
+2025-06-16,Movie tickets,Entertainment,Expense,240.75,Card
+2025-06-27,Medicine,Health,Expense,180.86,UPI
+2025-06-24,Online purchase,Shopping,Expense,310.01,UPI
+2025-06-08,Cab fare,Transport,Expense,153.45,UPI
+2025-06-06,Movie tickets,Entertainment,Expense,483.38,Card
+2025-06-26,Metro,Transport,Expense,47.3,Card
+2025-06-20,Online purchase,Shopping,Expense,716.34,Cash
+2025-06-10,Groceries,Food,Expense,428.55,Cash
+2025-06-06,Medicine,Health,Expense,316.74,UPI
+2025-06-25,Online purchase,Shopping,Expense,732.08,UPI
+2025-06-21,Online course,Education,Expense,137.84,Card
+2025-06-24,Coffee,Food,Expense,49.93,Card
+2025-06-09,Online course,Education,Expense,107.73,Card
+2025-06-24,Cab fare,Transport,Expense,158.58,Cash
+2025-06-09,Metro,Transport,Expense,71.65,Card
+2025-06-15,Online purchase,Shopping,Expense,423.29,Card
+2025-06-20,Movie tickets,Entertainment,Expense,220.91,Card
+2025-06-02,Medicine,Health,Expense,338.18,UPI
+2025-06-17,Groceries,Food,Expense,289.06,UPI
+2025-06-20,Movie tickets,Entertainment,Expense,115.35,Cash
+2025-06-04,Online course,Education,Expense,317.02,UPI
+2025-06-23,Online course,Education,Expense,445.71,UPI
+2025-06-13,Metro,Transport,Expense,77.3,Card
+2025-06-24,Groceries,Food,Expense,454.86,UPI
+2025-06-19,Internet bill,Bills,Expense,339.05,UPI
+2025-06-25,Online purchase,Shopping,Expense,657.24,Cash
+2025-06-23,Groceries,Food,Expense,296.98,UPI
+2025-06-01,Movie tickets,Entertainment,Expense,252.22,Card
+2025-06-11,Internet bill,Bills,Expense,289.73,Cash
+2025-06-24,Movie tickets,Entertainment,Expense,447.72,Cash
+2025-06-01,Groceries,Food,Expense,151.59,Cash
+2025-06-19,Coffee,Food,Expense,121.62,Cash
+2025-06-26,Coffee,Food,Expense,102.6,Card
+2025-06-04,Online purchase,Shopping,Expense,387.8,UPI
+2025-06-15,Cab fare,Transport,Expense,125.03,Card
+2025-06-19,Internet bill,Bills,Expense,114.3,Cash
+2025-06-23,Groceries,Food,Expense,337.37,UPI
+2025-06-07,Medicine,Health,Expense,169.79,Cash
+2025-06-14,Coffee,Food,Expense,145.2,UPI
+2025-06-12,Lunch,Food,Expense,187.64,UPI
+2025-06-12,Movie tickets,Entertainment,Expense,280.15,UPI
+2025-06-25,Lunch,Food,Expense,96.7,Cash
+2025-06-25,Online purchase,Shopping,Expense,231.1,UPI
+2025-06-01,Cab fare,Transport,Expense,168.83,Cash
+2025-06-05,Groceries,Food,Expense,227.06,UPI
+2025-06-17,Metro,Transport,Expense,26.34,Cash
+2025-06-15,Cab fare,Transport,Expense,180.74,Cash
+2025-06-08,Metro,Transport,Expense,37.78,UPI
+2025-06-11,Metro,Transport,Expense,24.58,Card
+2025-06-18,Medicine,Health,Expense,311.86,UPI
+2025-06-01,Movie tickets,Entertainment,Expense,459.98,UPI
+2025-06-06,Internet bill,Bills,Expense,186.29,UPI
+2025-06-01,Coffee,Food,Expense,75.58,UPI
+2025-07-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-07-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-07-02,Groceries,Food,Expense,377.15,UPI
+2025-07-08,Movie tickets,Entertainment,Expense,476.06,UPI
+2025-07-06,Coffee,Food,Expense,49.17,Cash
+2025-07-04,Medicine,Health,Expense,239.24,Cash
+2025-07-08,Internet bill,Bills,Expense,224.48,Cash
+2025-07-02,Coffee,Food,Expense,67.71,Card
+2025-07-28,Cab fare,Transport,Expense,105.27,Card
+2025-07-14,Online course,Education,Expense,366.3,UPI
+2025-07-04,Metro,Transport,Expense,54.85,UPI
+2025-07-14,Metro,Transport,Expense,33.14,Cash
+2025-07-16,Movie tickets,Entertainment,Expense,322.21,Card
+2025-07-05,Internet bill,Bills,Expense,268.95,UPI
+2025-07-16,Medicine,Health,Expense,339.14,Cash
+2025-07-06,Online purchase,Shopping,Expense,675.95,Card
+2025-07-06,Movie tickets,Entertainment,Expense,298.4,UPI
+2025-07-11,Internet bill,Bills,Expense,205.02,Cash
+2025-07-28,Metro,Transport,Expense,40.66,Cash
+2025-07-06,Cab fare,Transport,Expense,70.81,Card
+2025-07-10,Movie tickets,Entertainment,Expense,180.45,Cash
+2025-07-17,Cab fare,Transport,Expense,61.5,Card
+2025-07-02,Groceries,Food,Expense,186.63,Card
+2025-07-28,Medicine,Health,Expense,120.93,Card
+2025-07-08,Online purchase,Shopping,Expense,620.22,Cash
+2025-07-27,Coffee,Food,Expense,43.83,Cash
+2025-07-03,Metro,Transport,Expense,51.36,Card
+2025-07-06,Coffee,Food,Expense,135.53,UPI
+2025-07-06,Medicine,Health,Expense,335.7,Card
+2025-07-22,Lunch,Food,Expense,246.0,UPI
+2025-07-14,Coffee,Food,Expense,108.65,UPI
+2025-07-28,Internet bill,Bills,Expense,347.67,Cash
+2025-07-21,Internet bill,Bills,Expense,230.26,UPI
+2025-07-22,Medicine,Health,Expense,210.0,Card
+2025-07-03,Movie tickets,Entertainment,Expense,152.89,Cash
+2025-07-21,Groceries,Food,Expense,149.74,UPI
+2025-07-23,Movie tickets,Entertainment,Expense,155.61,Card
+2025-07-25,Coffee,Food,Expense,149.54,UPI
+2025-07-12,Online course,Education,Expense,118.85,Cash
+2025-07-19,Lunch,Food,Expense,203.32,Cash
+2025-07-05,Lunch,Food,Expense,181.11,Card
+2025-07-05,Metro,Transport,Expense,93.96,Cash
+2025-07-01,Internet bill,Bills,Expense,102.44,UPI
+2025-07-13,Online purchase,Shopping,Expense,718.57,UPI
+2025-07-11,Metro,Transport,Expense,51.47,UPI
+2025-07-14,Medicine,Health,Expense,343.2,Cash
+2025-07-28,Medicine,Health,Expense,110.4,Cash
+2025-07-17,Metro,Transport,Expense,81.83,UPI
+2025-07-17,Groceries,Food,Expense,330.65,Card
+2025-07-28,Lunch,Food,Expense,129.87,Card
+2025-07-05,Cab fare,Transport,Expense,217.7,UPI
+2025-07-25,Movie tickets,Entertainment,Expense,272.67,UPI
+2025-07-06,Online course,Education,Expense,137.86,UPI
+2025-07-27,Groceries,Food,Expense,225.16,Cash
+2025-07-28,Medicine,Health,Expense,276.51,Card
+2025-07-07,Lunch,Food,Expense,236.37,Card
+2025-07-15,Groceries,Food,Expense,145.12,UPI
+2025-07-08,Groceries,Food,Expense,144.94,UPI
+2025-07-06,Lunch,Food,Expense,109.13,UPI
+2025-07-04,Online course,Education,Expense,277.33,Card
+2025-07-07,Medicine,Health,Expense,218.66,Card
+2025-07-26,Groceries,Food,Expense,199.39,UPI
+2025-07-01,Movie tickets,Entertainment,Expense,160.03,Cash
+2025-07-13,Online course,Education,Expense,314.28,Cash
+2025-07-11,Movie tickets,Entertainment,Expense,380.12,UPI
+2025-07-14,Internet bill,Bills,Expense,197.93,UPI
+2025-07-08,Metro,Transport,Expense,76.92,UPI
+2025-07-10,Lunch,Food,Expense,80.51,Card
+2025-07-26,Metro,Transport,Expense,38.28,Cash
+2025-07-12,Cab fare,Transport,Expense,127.46,Cash
+2025-07-16,Online course,Education,Expense,367.71,Cash
+2025-07-11,Lunch,Food,Expense,244.94,UPI
+2025-07-10,Coffee,Food,Expense,46.29,Card
+2025-07-04,Movie tickets,Entertainment,Expense,397.65,Cash
+2025-07-17,Medicine,Health,Expense,183.47,Cash
+2025-07-17,Cab fare,Transport,Expense,143.08,Cash
+2025-07-10,Groceries,Food,Expense,180.74,UPI
+2025-07-22,Groceries,Food,Expense,449.92,Cash
+2025-07-18,Online purchase,Shopping,Expense,169.83,Card
+2025-07-13,Online purchase,Shopping,Expense,505.15,UPI
+2025-07-26,Online course,Education,Expense,115.88,Cash
+2025-07-27,Internet bill,Bills,Expense,225.02,UPI
+2025-07-10,Online course,Education,Expense,367.58,Cash
+2025-07-22,Medicine,Health,Expense,281.66,Cash
+2025-07-18,Groceries,Food,Expense,114.97,Card
+2025-07-18,Groceries,Food,Expense,450.87,UPI
+2025-07-17,Internet bill,Bills,Expense,330.93,Card
+2025-07-26,Coffee,Food,Expense,148.43,UPI
+2025-07-14,Metro,Transport,Expense,58.62,Card
+2025-07-15,Cab fare,Transport,Expense,63.19,UPI
+2025-07-21,Groceries,Food,Expense,235.29,UPI
+2025-07-13,Medicine,Health,Expense,238.22,Card
+2025-07-16,Metro,Transport,Expense,32.9,UPI
+2025-07-04,Medicine,Health,Expense,84.7,UPI
+2025-07-17,Metro,Transport,Expense,43.73,Card
+2025-07-20,Coffee,Food,Expense,143.88,Card
+2025-07-20,Lunch,Food,Expense,93.16,Card
+2025-07-28,Metro,Transport,Expense,24.66,Cash
+2025-07-28,Internet bill,Bills,Expense,326.96,Card
+2025-07-01,Medicine,Health,Expense,393.02,Cash
+2025-07-02,Cab fare,Transport,Expense,129.25,Cash
+2025-07-21,Medicine,Health,Expense,298.96,Card
+2025-08-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-08-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-08-13,Freelance project,Freelance,Income,6000.0,Bank Transfer
+2025-08-19,Medicine,Health,Expense,386.12,Cash
+2025-08-18,Movie tickets,Entertainment,Expense,372.68,Card
+2025-08-16,Groceries,Food,Expense,240.88,Cash
+2025-08-17,Medicine,Health,Expense,360.88,Card
+2025-08-26,Online purchase,Shopping,Expense,324.99,Card
+2025-08-18,Coffee,Food,Expense,59.49,Card
+2025-08-17,Internet bill,Bills,Expense,249.08,Card
+2025-08-11,Movie tickets,Entertainment,Expense,127.23,Cash
+2025-08-06,Metro,Transport,Expense,42.89,UPI
+2025-08-08,Internet bill,Bills,Expense,150.6,Cash
+2025-08-15,Metro,Transport,Expense,65.25,Card
+2025-08-21,Movie tickets,Entertainment,Expense,370.37,Cash
+2025-08-05,Movie tickets,Entertainment,Expense,253.6,Cash
+2025-08-06,Lunch,Food,Expense,62.96,Card
+2025-08-28,Internet bill,Bills,Expense,115.39,Card
+2025-08-01,Online purchase,Shopping,Expense,774.56,UPI
+2025-08-14,Online course,Education,Expense,221.66,UPI
+2025-08-06,Movie tickets,Entertainment,Expense,309.83,Card
+2025-08-22,Lunch,Food,Expense,218.32,Cash
+2025-08-24,Movie tickets,Entertainment,Expense,308.37,Cash
+2025-08-16,Cab fare,Transport,Expense,81.03,Cash
+2025-08-08,Movie tickets,Entertainment,Expense,319.91,Card
+2025-08-04,Metro,Transport,Expense,72.69,Card
+2025-08-10,Metro,Transport,Expense,25.02,UPI
+2025-08-10,Cab fare,Transport,Expense,110.57,UPI
+2025-08-05,Medicine,Health,Expense,91.49,Card
+2025-08-19,Medicine,Health,Expense,117.86,UPI
+2025-08-12,Online purchase,Shopping,Expense,791.29,UPI
+2025-08-23,Groceries,Food,Expense,464.42,Cash
+2025-08-23,Coffee,Food,Expense,130.45,Card
+2025-08-01,Medicine,Health,Expense,176.76,UPI
+2025-08-20,Movie tickets,Entertainment,Expense,126.07,UPI
+2025-08-09,Groceries,Food,Expense,335.08,UPI
+2025-08-13,Online purchase,Shopping,Expense,115.85,Card
+2025-08-19,Movie tickets,Entertainment,Expense,381.36,Card
+2025-08-16,Lunch,Food,Expense,85.71,UPI
+2025-08-02,Medicine,Health,Expense,219.68,Card
+2025-08-28,Coffee,Food,Expense,94.94,Card
+2025-08-05,Groceries,Food,Expense,327.06,UPI
+2025-08-14,Online course,Education,Expense,108.26,UPI
+2025-08-20,Lunch,Food,Expense,136.13,Card
+2025-08-20,Metro,Transport,Expense,77.61,Card
+2025-08-28,Medicine,Health,Expense,169.7,UPI
+2025-08-08,Metro,Transport,Expense,35.72,Cash
+2025-08-01,Internet bill,Bills,Expense,152.57,UPI
+2025-08-19,Groceries,Food,Expense,470.07,Card
+2025-08-18,Internet bill,Bills,Expense,374.83,UPI
+2025-08-12,Online course,Education,Expense,447.3,Cash
+2025-08-06,Movie tickets,Entertainment,Expense,423.89,Cash
+2025-08-25,Coffee,Food,Expense,172.55,UPI
+2025-08-23,Metro,Transport,Expense,42.37,Cash
+2025-08-27,Online purchase,Shopping,Expense,382.34,Cash
+2025-08-06,Online purchase,Shopping,Expense,257.16,Cash
+2025-08-23,Groceries,Food,Expense,464.17,UPI
+2025-08-24,Cab fare,Transport,Expense,86.45,Cash
+2025-08-28,Internet bill,Bills,Expense,162.91,UPI
+2025-08-16,Medicine,Health,Expense,119.12,Cash
+2025-08-19,Internet bill,Bills,Expense,180.99,UPI
+2025-08-14,Movie tickets,Entertainment,Expense,141.13,Cash
+2025-08-16,Online course,Education,Expense,389.02,UPI
+2025-08-17,Online course,Education,Expense,353.55,Cash
+2025-08-11,Cab fare,Transport,Expense,178.28,UPI
+2025-08-22,Cab fare,Transport,Expense,165.46,UPI
+2025-08-26,Online course,Education,Expense,111.96,Cash
+2025-08-21,Groceries,Food,Expense,185.59,UPI
+2025-08-06,Movie tickets,Entertainment,Expense,118.44,Card
+2025-08-06,Online purchase,Shopping,Expense,536.72,UPI
+2025-08-12,Internet bill,Bills,Expense,182.93,UPI
+2025-08-03,Movie tickets,Entertainment,Expense,212.22,Cash
+2025-08-17,Metro,Transport,Expense,99.86,UPI
+2025-08-10,Online course,Education,Expense,341.98,Cash
+2025-08-02,Lunch,Food,Expense,60.92,Card
+2025-08-16,Internet bill,Bills,Expense,204.96,Card
+2025-08-14,Movie tickets,Entertainment,Expense,309.3,UPI
+2025-08-08,Groceries,Food,Expense,466.71,Cash
+2025-08-03,Medicine,Health,Expense,108.49,Card
+2025-08-19,Metro,Transport,Expense,79.1,Cash
+2025-08-21,Online course,Education,Expense,143.31,Card
+2025-08-09,Medicine,Health,Expense,371.78,Cash
+2025-08-13,Lunch,Food,Expense,108.35,Card
+2025-08-07,Lunch,Food,Expense,113.5,Cash
+2025-08-12,Online course,Education,Expense,384.15,Card
+2025-08-05,Groceries,Food,Expense,325.4,Card
+2025-08-05,Metro,Transport,Expense,24.68,Cash
+2025-08-20,Online purchase,Shopping,Expense,235.45,Cash
+2025-08-25,Medicine,Health,Expense,127.18,Cash
+2025-08-15,Online course,Education,Expense,189.33,UPI
+2025-08-14,Groceries,Food,Expense,169.7,Cash
+2025-08-19,Metro,Transport,Expense,95.21,Card
+2025-08-13,Online purchase,Shopping,Expense,161.18,Cash
+2025-08-09,Online purchase,Shopping,Expense,259.61,UPI
+2025-08-08,Lunch,Food,Expense,100.29,Cash
+2025-08-17,Online purchase,Shopping,Expense,236.02,Card
+2025-08-05,Lunch,Food,Expense,120.17,Cash
+2025-08-22,Groceries,Food,Expense,305.26,UPI
+2025-08-21,Internet bill,Bills,Expense,210.06,Cash
+2025-08-03,Medicine,Health,Expense,391.3,UPI
+2025-08-26,Internet bill,Bills,Expense,171.27,UPI
+2025-08-16,Lunch,Food,Expense,161.56,UPI
+2025-08-10,Lunch,Food,Expense,117.8,Cash
+2025-09-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-09-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-09-18,Cab fare,Transport,Expense,115.43,Cash
+2025-09-04,Online course,Education,Expense,393.64,Card
+2025-09-01,Movie tickets,Entertainment,Expense,377.32,Card
+2025-09-17,Groceries,Food,Expense,350.02,Card
+2025-09-03,Metro,Transport,Expense,49.26,Card
+2025-09-08,Online course,Education,Expense,399.37,Cash
+2025-09-24,Lunch,Food,Expense,101.79,Cash
+2025-09-20,Movie tickets,Entertainment,Expense,106.78,Card
+2025-09-15,Groceries,Food,Expense,196.71,Card
+2025-09-13,Groceries,Food,Expense,151.56,UPI
+2025-09-15,Online course,Education,Expense,150.83,Card
+2025-09-05,Internet bill,Bills,Expense,179.81,UPI
+2025-09-13,Cab fare,Transport,Expense,140.86,Card
+2025-09-23,Online purchase,Shopping,Expense,393.28,Cash
+2025-09-10,Metro,Transport,Expense,29.7,UPI
+2025-09-23,Lunch,Food,Expense,165.48,Card
+2025-09-27,Metro,Transport,Expense,25.54,Card
+2025-09-11,Coffee,Food,Expense,48.7,UPI
+2025-09-26,Metro,Transport,Expense,52.49,Cash
+2025-09-07,Coffee,Food,Expense,156.48,UPI
+2025-09-08,Medicine,Health,Expense,284.2,Cash
+2025-09-07,Movie tickets,Entertainment,Expense,291.81,UPI
+2025-09-03,Online purchase,Shopping,Expense,599.53,Card
+2025-09-27,Medicine,Health,Expense,214.44,UPI
+2025-09-23,Online purchase,Shopping,Expense,335.13,Card
+2025-09-17,Cab fare,Transport,Expense,151.4,Cash
+2025-09-14,Online course,Education,Expense,174.05,Cash
+2025-09-07,Online purchase,Shopping,Expense,627.48,Cash
+2025-09-25,Groceries,Food,Expense,461.48,Card
+2025-09-12,Online purchase,Shopping,Expense,239.7,UPI
+2025-09-23,Medicine,Health,Expense,210.27,UPI
+2025-09-28,Medicine,Health,Expense,305.25,Card
+2025-09-06,Groceries,Food,Expense,433.2,Card
+2025-09-16,Lunch,Food,Expense,148.04,UPI
+2025-09-12,Metro,Transport,Expense,71.43,Cash
+2025-09-03,Online course,Education,Expense,349.33,Cash
+2025-09-23,Metro,Transport,Expense,30.52,Card
+2025-09-20,Movie tickets,Entertainment,Expense,367.25,Card
+2025-09-06,Cab fare,Transport,Expense,216.69,UPI
+2025-09-18,Cab fare,Transport,Expense,114.43,Cash
+2025-09-28,Online course,Education,Expense,339.5,Card
+2025-09-27,Internet bill,Bills,Expense,106.59,UPI
+2025-09-09,Coffee,Food,Expense,55.48,Cash
+2025-09-03,Movie tickets,Entertainment,Expense,345.05,Card
+2025-09-27,Movie tickets,Entertainment,Expense,365.51,Card
+2025-09-21,Metro,Transport,Expense,36.93,Card
+2025-09-26,Movie tickets,Entertainment,Expense,256.89,Card
+2025-09-02,Online purchase,Shopping,Expense,355.05,Card
+2025-09-04,Online course,Education,Expense,410.64,UPI
+2025-09-25,Metro,Transport,Expense,72.16,UPI
+2025-09-18,Online course,Education,Expense,190.08,UPI
+2025-09-23,Lunch,Food,Expense,83.87,Cash
+2025-09-13,Online course,Education,Expense,324.81,Cash
+2025-09-15,Movie tickets,Entertainment,Expense,455.42,Card
+2025-09-19,Online purchase,Shopping,Expense,501.07,Cash
+2025-09-03,Cab fare,Transport,Expense,187.57,Cash
+2025-09-25,Internet bill,Bills,Expense,280.44,Cash
+2025-09-15,Online purchase,Shopping,Expense,404.93,UPI
+2025-09-19,Online purchase,Shopping,Expense,617.29,Card
+2025-09-26,Internet bill,Bills,Expense,283.45,Card
+2025-09-20,Movie tickets,Entertainment,Expense,285.48,Cash
+2025-09-09,Medicine,Health,Expense,136.3,UPI
+2025-09-11,Metro,Transport,Expense,81.91,Card
+2025-09-27,Lunch,Food,Expense,214.36,Card
+2025-09-24,Metro,Transport,Expense,66.05,UPI
+2025-09-20,Online purchase,Shopping,Expense,748.16,Card
+2025-09-15,Groceries,Food,Expense,367.2,Cash
+2025-09-20,Internet bill,Bills,Expense,226.79,Cash
+2025-09-07,Medicine,Health,Expense,275.1,Cash
+2025-09-20,Medicine,Health,Expense,240.8,Card
+2025-09-02,Lunch,Food,Expense,63.09,UPI
+2025-09-21,Lunch,Food,Expense,177.12,UPI
+2025-09-17,Medicine,Health,Expense,163.02,Cash
+2025-09-03,Groceries,Food,Expense,141.69,Cash
+2025-09-23,Online purchase,Shopping,Expense,284.83,Card
+2025-09-14,Medicine,Health,Expense,96.94,UPI
+2025-09-14,Internet bill,Bills,Expense,160.09,Card
+2025-09-20,Coffee,Food,Expense,97.88,Card
+2025-09-10,Coffee,Food,Expense,105.78,Cash
+2025-09-24,Coffee,Food,Expense,131.82,UPI
+2025-09-18,Groceries,Food,Expense,278.36,Cash
+2025-09-26,Online purchase,Shopping,Expense,432.36,Cash
+2025-09-16,Lunch,Food,Expense,95.31,UPI
+2025-09-28,Coffee,Food,Expense,106.8,Cash
+2025-09-18,Lunch,Food,Expense,158.91,UPI
+2025-09-11,Metro,Transport,Expense,56.21,Card
+2025-09-17,Cab fare,Transport,Expense,75.74,Card
+2025-09-14,Medicine,Health,Expense,261.95,Card
+2025-09-01,Online purchase,Shopping,Expense,678.45,Cash
+2025-09-26,Coffee,Food,Expense,155.43,UPI
+2025-09-25,Movie tickets,Entertainment,Expense,230.71,UPI
+2025-09-24,Medicine,Health,Expense,111.58,UPI
+2025-09-04,Metro,Transport,Expense,82.2,Card
+2025-09-18,Online course,Education,Expense,222.13,Cash
+2025-09-24,Coffee,Food,Expense,69.6,Cash
+2025-09-16,Medicine,Health,Expense,190.55,Cash
+2025-09-19,Online purchase,Shopping,Expense,574.28,UPI
+2025-09-15,Movie tickets,Entertainment,Expense,366.88,Card
+2025-09-02,Groceries,Food,Expense,366.38,Cash
+2025-09-11,Movie tickets,Entertainment,Expense,433.56,UPI
+2025-10-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-10-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-10-13,Freelance project,Freelance,Income,6000.0,Bank Transfer
+2025-10-02,Coffee,Food,Expense,89.53,Cash
+2025-10-23,Groceries,Food,Expense,417.89,UPI
+2025-10-06,Metro,Transport,Expense,75.11,Cash
+2025-10-22,Medicine,Health,Expense,374.51,Cash
+2025-10-08,Cab fare,Transport,Expense,209.02,UPI
+2025-10-07,Cab fare,Transport,Expense,166.96,Card
+2025-10-10,Movie tickets,Entertainment,Expense,139.65,Card
+2025-10-28,Cab fare,Transport,Expense,66.72,Card
+2025-10-25,Internet bill,Bills,Expense,284.83,Cash
+2025-10-01,Internet bill,Bills,Expense,308.8,Cash
+2025-10-08,Online course,Education,Expense,364.68,Card
+2025-10-03,Cab fare,Transport,Expense,116.83,UPI
+2025-10-14,Coffee,Food,Expense,60.83,UPI
+2025-10-14,Internet bill,Bills,Expense,212.21,UPI
+2025-10-25,Online purchase,Shopping,Expense,743.69,UPI
+2025-10-27,Metro,Transport,Expense,59.26,UPI
+2025-10-12,Groceries,Food,Expense,218.2,Cash
+2025-10-12,Internet bill,Bills,Expense,159.59,Cash
+2025-10-18,Lunch,Food,Expense,88.43,Card
+2025-10-24,Groceries,Food,Expense,108.03,UPI
+2025-10-22,Groceries,Food,Expense,435.77,Card
+2025-10-24,Cab fare,Transport,Expense,201.71,UPI
+2025-10-05,Lunch,Food,Expense,129.5,Cash
+2025-10-28,Coffee,Food,Expense,149.81,Card
+2025-10-02,Lunch,Food,Expense,137.34,UPI
+2025-10-01,Internet bill,Bills,Expense,382.17,UPI
+2025-10-03,Lunch,Food,Expense,225.7,Cash
+2025-10-23,Online purchase,Shopping,Expense,274.42,Cash
+2025-10-25,Internet bill,Bills,Expense,167.66,Card
+2025-10-22,Internet bill,Bills,Expense,386.95,UPI
+2025-10-05,Coffee,Food,Expense,72.56,UPI
+2025-10-23,Metro,Transport,Expense,94.13,Card
+2025-10-18,Cab fare,Transport,Expense,110.78,Cash
+2025-10-15,Online purchase,Shopping,Expense,752.11,Card
+2025-10-10,Online purchase,Shopping,Expense,398.33,Card
+2025-10-28,Cab fare,Transport,Expense,99.19,UPI
+2025-10-18,Online purchase,Shopping,Expense,697.86,Cash
+2025-10-08,Movie tickets,Entertainment,Expense,418.04,Card
+2025-10-18,Medicine,Health,Expense,230.53,Card
+2025-10-26,Movie tickets,Entertainment,Expense,161.76,UPI
+2025-10-22,Online course,Education,Expense,449.75,UPI
+2025-10-22,Cab fare,Transport,Expense,63.29,UPI
+2025-10-13,Medicine,Health,Expense,295.31,Cash
+2025-10-08,Metro,Transport,Expense,92.26,Cash
+2025-10-17,Online course,Education,Expense,346.05,Card
+2025-10-18,Cab fare,Transport,Expense,186.78,Card
+2025-10-27,Cab fare,Transport,Expense,119.71,Card
+2025-10-27,Online course,Education,Expense,276.05,Cash
+2025-10-19,Cab fare,Transport,Expense,105.24,UPI
+2025-10-08,Internet bill,Bills,Expense,156.0,Card
+2025-10-26,Cab fare,Transport,Expense,174.68,Cash
+2025-10-15,Medicine,Health,Expense,323.08,Cash
+2025-10-03,Online purchase,Shopping,Expense,692.37,Card
+2025-10-26,Metro,Transport,Expense,73.31,Cash
+2025-10-11,Movie tickets,Entertainment,Expense,146.23,Cash
+2025-10-02,Metro,Transport,Expense,98.8,Card
+2025-10-04,Online course,Education,Expense,430.75,Card
+2025-10-04,Movie tickets,Entertainment,Expense,316.47,UPI
+2025-10-05,Metro,Transport,Expense,33.61,Card
+2025-10-23,Cab fare,Transport,Expense,183.93,Card
+2025-10-11,Groceries,Food,Expense,245.52,Card
+2025-10-20,Medicine,Health,Expense,380.58,Cash
+2025-10-17,Lunch,Food,Expense,176.21,Cash
+2025-10-23,Online purchase,Shopping,Expense,610.82,Cash
+2025-10-27,Lunch,Food,Expense,179.27,Card
+2025-10-10,Groceries,Food,Expense,327.05,UPI
+2025-10-23,Online course,Education,Expense,400.43,Card
+2025-10-13,Cab fare,Transport,Expense,75.97,Cash
+2025-10-03,Cab fare,Transport,Expense,74.83,UPI
+2025-10-19,Online course,Education,Expense,323.34,Cash
+2025-10-22,Online course,Education,Expense,158.82,UPI
+2025-10-17,Cab fare,Transport,Expense,163.17,Cash
+2025-10-15,Metro,Transport,Expense,60.36,Cash
+2025-10-06,Lunch,Food,Expense,98.01,Cash
+2025-10-14,Online course,Education,Expense,423.85,Cash
+2025-10-16,Internet bill,Bills,Expense,243.76,Cash
+2025-10-19,Online course,Education,Expense,114.7,Cash
+2025-10-14,Coffee,Food,Expense,141.42,Cash
+2025-10-20,Groceries,Food,Expense,102.86,UPI
+2025-10-01,Lunch,Food,Expense,132.65,Cash
+2025-10-10,Internet bill,Bills,Expense,225.15,UPI
+2025-10-13,Medicine,Health,Expense,195.94,Cash
+2025-10-08,Coffee,Food,Expense,149.73,Cash
+2025-10-06,Medicine,Health,Expense,334.66,UPI
+2025-10-18,Coffee,Food,Expense,100.24,Cash
+2025-10-23,Lunch,Food,Expense,226.96,Card
+2025-10-18,Groceries,Food,Expense,339.78,Card
+2025-10-02,Lunch,Food,Expense,209.08,Card
+2025-10-27,Groceries,Food,Expense,410.4,Cash
+2025-10-11,Online purchase,Shopping,Expense,640.96,UPI
+2025-10-28,Groceries,Food,Expense,444.63,Card
+2025-10-01,Movie tickets,Entertainment,Expense,166.35,Cash
+2025-10-18,Groceries,Food,Expense,459.18,UPI
+2025-10-24,Movie tickets,Entertainment,Expense,263.1,Cash
+2025-10-20,Groceries,Food,Expense,280.48,UPI
+2025-10-11,Movie tickets,Entertainment,Expense,431.91,Cash
+2025-10-17,Lunch,Food,Expense,87.44,Card
+2025-10-12,Internet bill,Bills,Expense,111.04,Card
+2025-10-19,Cab fare,Transport,Expense,80.68,Cash
+2025-10-25,Online purchase,Shopping,Expense,714.32,Card
+2025-11-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-11-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-11-27,Medicine,Health,Expense,157.41,Cash
+2025-11-08,Internet bill,Bills,Expense,295.62,UPI
+2025-11-27,Metro,Transport,Expense,40.7,Card
+2025-11-07,Online purchase,Shopping,Expense,506.2,UPI
+2025-11-25,Movie tickets,Entertainment,Expense,340.64,UPI
+2025-11-09,Metro,Transport,Expense,57.51,Cash
+2025-11-03,Metro,Transport,Expense,99.24,Cash
+2025-11-15,Online course,Education,Expense,139.76,Cash
+2025-11-05,Internet bill,Bills,Expense,178.62,Card
+2025-11-24,Medicine,Health,Expense,240.47,Cash
+2025-11-18,Lunch,Food,Expense,164.14,Cash
+2025-11-08,Metro,Transport,Expense,25.69,UPI
+2025-11-22,Online purchase,Shopping,Expense,616.27,Card
+2025-11-04,Online purchase,Shopping,Expense,692.99,Card
+2025-11-15,Groceries,Food,Expense,397.92,Card
+2025-11-02,Lunch,Food,Expense,179.49,Cash
+2025-11-08,Metro,Transport,Expense,64.59,Cash
+2025-11-16,Lunch,Food,Expense,183.45,Card
+2025-11-27,Internet bill,Bills,Expense,259.14,Cash
+2025-11-21,Movie tickets,Entertainment,Expense,407.39,UPI
+2025-11-12,Online purchase,Shopping,Expense,601.19,Card
+2025-11-28,Lunch,Food,Expense,177.94,Card
+2025-11-20,Metro,Transport,Expense,93.02,Card
+2025-11-20,Cab fare,Transport,Expense,96.46,UPI
+2025-11-25,Online course,Education,Expense,323.26,UPI
+2025-11-01,Metro,Transport,Expense,95.21,Cash
+2025-11-13,Coffee,Food,Expense,69.38,UPI
+2025-11-24,Movie tickets,Entertainment,Expense,320.83,UPI
+2025-11-25,Coffee,Food,Expense,70.81,UPI
+2025-11-14,Movie tickets,Entertainment,Expense,206.24,Card
+2025-11-24,Movie tickets,Entertainment,Expense,316.65,Cash
+2025-11-28,Medicine,Health,Expense,261.31,Card
+2025-11-28,Coffee,Food,Expense,130.7,Card
+2025-11-23,Movie tickets,Entertainment,Expense,290.72,Cash
+2025-11-17,Online purchase,Shopping,Expense,311.61,Card
+2025-11-02,Internet bill,Bills,Expense,103.57,Cash
+2025-11-07,Coffee,Food,Expense,179.68,UPI
+2025-11-19,Online course,Education,Expense,361.64,UPI
+2025-11-14,Online course,Education,Expense,398.22,Cash
+2025-11-02,Online purchase,Shopping,Expense,182.53,UPI
+2025-11-24,Internet bill,Bills,Expense,153.27,Cash
+2025-11-27,Cab fare,Transport,Expense,177.65,UPI
+2025-11-19,Lunch,Food,Expense,165.66,UPI
+2025-11-17,Online course,Education,Expense,128.14,Card
+2025-11-20,Lunch,Food,Expense,201.53,Card
+2025-11-13,Online course,Education,Expense,151.17,UPI
+2025-11-15,Movie tickets,Entertainment,Expense,199.25,Cash
+2025-11-07,Cab fare,Transport,Expense,212.16,Cash
+2025-11-02,Cab fare,Transport,Expense,133.78,Card
+2025-11-16,Groceries,Food,Expense,261.31,Cash
+2025-11-02,Coffee,Food,Expense,120.32,Cash
+2025-11-28,Groceries,Food,Expense,126.45,Cash
+2025-11-02,Metro,Transport,Expense,73.42,Card
+2025-11-16,Online course,Education,Expense,320.31,Cash
+2025-11-25,Coffee,Food,Expense,61.68,Cash
+2025-11-15,Metro,Transport,Expense,56.41,Cash
+2025-11-06,Groceries,Food,Expense,465.63,UPI
+2025-11-16,Medicine,Health,Expense,280.65,Cash
+2025-11-25,Medicine,Health,Expense,197.59,UPI
+2025-11-27,Online course,Education,Expense,387.89,UPI
+2025-11-14,Movie tickets,Entertainment,Expense,257.14,Card
+2025-11-02,Movie tickets,Entertainment,Expense,398.57,Cash
+2025-11-19,Cab fare,Transport,Expense,100.04,Card
+2025-11-27,Groceries,Food,Expense,460.88,Card
+2025-11-15,Movie tickets,Entertainment,Expense,352.3,Card
+2025-11-28,Groceries,Food,Expense,137.87,Card
+2025-11-06,Medicine,Health,Expense,98.57,UPI
+2025-11-05,Online purchase,Shopping,Expense,262.95,UPI
+2025-11-14,Online course,Education,Expense,236.12,Cash
+2025-11-21,Internet bill,Bills,Expense,144.19,Card
+2025-11-21,Coffee,Food,Expense,148.7,UPI
+2025-11-18,Cab fare,Transport,Expense,211.6,Card
+2025-11-14,Online course,Education,Expense,325.88,UPI
+2025-11-24,Movie tickets,Entertainment,Expense,389.28,Card
+2025-11-07,Movie tickets,Entertainment,Expense,219.46,Cash
+2025-11-25,Online purchase,Shopping,Expense,661.91,UPI
+2025-11-23,Movie tickets,Entertainment,Expense,220.65,UPI
+2025-11-03,Movie tickets,Entertainment,Expense,354.97,Cash
+2025-11-03,Groceries,Food,Expense,275.83,UPI
+2025-11-25,Groceries,Food,Expense,249.74,UPI
+2025-11-28,Internet bill,Bills,Expense,186.84,UPI
+2025-11-24,Coffee,Food,Expense,96.09,Card
+2025-11-14,Coffee,Food,Expense,139.26,UPI
+2025-11-18,Lunch,Food,Expense,238.81,Card
+2025-11-18,Online purchase,Shopping,Expense,753.09,Card
+2025-11-26,Medicine,Health,Expense,82.81,Card
+2025-11-15,Lunch,Food,Expense,125.5,UPI
+2025-11-06,Metro,Transport,Expense,74.32,Card
+2025-11-10,Online purchase,Shopping,Expense,637.4,Cash
+2025-11-19,Groceries,Food,Expense,203.89,UPI
+2025-11-27,Cab fare,Transport,Expense,139.07,Card
+2025-11-17,Coffee,Food,Expense,169.77,UPI
+2025-11-03,Internet bill,Bills,Expense,127.68,UPI
+2025-11-13,Coffee,Food,Expense,159.51,UPI
+2025-11-20,Metro,Transport,Expense,52.57,Cash
+2025-11-01,Groceries,Food,Expense,436.72,Cash
+2025-11-20,Medicine,Health,Expense,289.28,Card
+2025-11-28,Movie tickets,Entertainment,Expense,299.29,UPI
+2025-11-10,Lunch,Food,Expense,205.47,Card
+2025-11-14,Cab fare,Transport,Expense,135.12,UPI
+2025-12-01,Monthly salary,Salary,Income,62000.0,Bank Transfer
+2025-12-01,House rent,Rent,Expense,16000.0,Bank Transfer
+2025-12-13,Freelance project,Freelance,Income,6000.0,Bank Transfer
+2025-12-08,Metro,Transport,Expense,50.67,UPI
+2025-12-16,Movie tickets,Entertainment,Expense,223.36,UPI
+2025-12-19,Coffee,Food,Expense,113.25,UPI
+2025-12-07,Groceries,Food,Expense,429.59,UPI
+2025-12-20,Coffee,Food,Expense,175.27,Cash
+2025-12-21,Cab fare,Transport,Expense,80.06,Cash
+2025-12-01,Cab fare,Transport,Expense,203.49,UPI
+2025-12-14,Internet bill,Bills,Expense,225.09,Cash
+2025-12-28,Groceries,Food,Expense,193.67,UPI
+2025-12-25,Movie tickets,Entertainment,Expense,145.73,Cash
+2025-12-08,Coffee,Food,Expense,88.48,UPI
+2025-12-15,Movie tickets,Entertainment,Expense,356.03,Card
+2025-12-14,Groceries,Food,Expense,365.4,UPI
+2025-12-16,Internet bill,Bills,Expense,139.15,Cash
+2025-12-18,Cab fare,Transport,Expense,115.49,Card
+2025-12-17,Online purchase,Shopping,Expense,730.89,UPI
+2025-12-07,Cab fare,Transport,Expense,166.32,UPI
+2025-12-04,Groceries,Food,Expense,381.45,Cash
+2025-12-11,Lunch,Food,Expense,66.3,Cash
+2025-12-11,Cab fare,Transport,Expense,173.94,Card
+2025-12-23,Internet bill,Bills,Expense,136.02,UPI
+2025-12-28,Lunch,Food,Expense,81.23,Card
+2025-12-14,Metro,Transport,Expense,66.68,Cash
+2025-12-28,Lunch,Food,Expense,217.86,Cash
+2025-12-02,Movie tickets,Entertainment,Expense,355.56,Card
+2025-12-11,Medicine,Health,Expense,213.42,UPI
+2025-12-07,Online course,Education,Expense,116.61,Card
+2025-12-04,Coffee,Food,Expense,55.48,UPI
+2025-12-13,Online course,Education,Expense,177.4,Card
+2025-12-24,Online course,Education,Expense,270.78,Card
+2025-12-12,Movie tickets,Entertainment,Expense,416.56,UPI
+2025-12-06,Medicine,Health,Expense,246.01,Card
+2025-12-16,Coffee,Food,Expense,81.65,Cash
+2025-12-10,Groceries,Food,Expense,398.18,Card
+2025-12-13,Cab fare,Transport,Expense,84.12,UPI
+2025-12-20,Movie tickets,Entertainment,Expense,476.21,UPI
+2025-12-15,Groceries,Food,Expense,366.6,UPI
+2025-12-01,Online purchase,Shopping,Expense,310.41,Cash
+2025-12-13,Coffee,Food,Expense,69.01,UPI
+2025-12-20,Lunch,Food,Expense,104.33,UPI
+2025-12-08,Cab fare,Transport,Expense,149.54,UPI
+2025-12-12,Movie tickets,Entertainment,Expense,236.59,Card
+2025-12-11,Metro,Transport,Expense,93.84,Cash
+2025-12-23,Lunch,Food,Expense,147.65,Card
+2025-12-08,Metro,Transport,Expense,62.43,Card
+2025-12-06,Online course,Education,Expense,146.4,Cash
+2025-12-08,Metro,Transport,Expense,52.86,UPI
+2025-12-03,Groceries,Food,Expense,141.26,Cash
+2025-12-16,Online purchase,Shopping,Expense,494.9,UPI
+2025-12-28,Metro,Transport,Expense,58.34,Card
+2025-12-16,Internet bill,Bills,Expense,193.09,Card
+2025-12-22,Groceries,Food,Expense,489.44,Card
+2025-12-28,Groceries,Food,Expense,132.07,Card
+2025-12-10,Groceries,Food,Expense,378.8,Cash
+2025-12-14,Coffee,Food,Expense,142.18,Cash
+2025-12-01,Groceries,Food,Expense,285.04,Card
+2025-12-23,Coffee,Food,Expense,120.7,Card
+2025-12-17,Groceries,Food,Expense,251.73,Card
+2025-12-08,Internet bill,Bills,Expense,227.4,UPI
+2025-12-08,Movie tickets,Entertainment,Expense,244.15,Card
+2025-12-03,Groceries,Food,Expense,203.2,Card
+2025-12-03,Coffee,Food,Expense,170.58,Card
+2025-12-05,Online course,Education,Expense,142.77,Card
+2025-12-05,Online purchase,Shopping,Expense,585.97,UPI
+2025-12-17,Coffee,Food,Expense,175.99,Card
+2025-12-05,Lunch,Food,Expense,79.8,Cash
+2025-12-19,Lunch,Food,Expense,196.03,Cash
+2025-12-17,Online purchase,Shopping,Expense,509.69,UPI
+2025-12-28,Groceries,Food,Expense,310.27,Cash
+2025-12-05,Online course,Education,Expense,150.78,Card
+2025-12-27,Medicine,Health,Expense,387.02,Cash
+2025-12-22,Movie tickets,Entertainment,Expense,257.74,UPI
+2025-12-11,Internet bill,Bills,Expense,362.55,UPI
+2025-12-08,Movie tickets,Entertainment,Expense,323.9,UPI
+2025-12-19,Groceries,Food,Expense,424.15,Card
+2025-12-24,Online purchase,Shopping,Expense,234.2,Card
+2025-12-13,Cab fare,Transport,Expense,196.76,Card
+2025-12-07,Lunch,Food,Expense,74.64,UPI
+2025-12-27,Lunch,Food,Expense,169.05,Cash
+2025-12-25,Internet bill,Bills,Expense,193.46,UPI
+2025-12-14,Medicine,Health,Expense,228.08,Card
+2025-12-04,Online course,Education,Expense,292.52,Cash
+2025-12-07,Internet bill,Bills,Expense,254.18,UPI
+2025-12-06,Medicine,Health,Expense,233.1,UPI
+2025-12-26,Lunch,Food,Expense,94.32,Cash
+2025-12-27,Metro,Transport,Expense,29.87,UPI
+2025-12-12,Online purchase,Shopping,Expense,252.8,UPI
+2025-12-07,Internet bill,Bills,Expense,173.99,Cash
+2025-12-19,Internet bill,Bills,Expense,123.33,Cash
+2025-12-02,Metro,Transport,Expense,62.59,Card
+2025-12-17,Internet bill,Bills,Expense,261.76,Cash
+2025-12-15,Lunch,Food,Expense,175.23,Cash
+2025-12-16,Groceries,Food,Expense,232.67,Card
+2025-12-10,Online purchase,Shopping,Expense,222.29,Cash
+2025-12-22,Lunch,Food,Expense,80.86,UPI
+2025-12-21,Coffee,Food,Expense,60.93,Cash
+2025-12-10,Cab fare,Transport,Expense,149.07,Cash
+2025-12-18,Cab fare,Transport,Expense,142.43,Card
+2025-12-02,Medicine,Health,Expense,138.74,UPI
+2025-12-05,Online purchase,Shopping,Expense,409.68,UPI
