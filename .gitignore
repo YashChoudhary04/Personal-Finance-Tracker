@@ -21,3 +21,4 @@ __pycache__/
 
 # VS Code settings
 .vscode/
+setup_supabase.py

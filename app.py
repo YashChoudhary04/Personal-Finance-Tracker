@@ -5,7 +5,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 import streamlit as st
-from finance import CATEGORIES,PAYMENTS,FIELDS,setup,load,insert,import_csv,categorize
+from finance import CATEGORIES,PAYMENTS,FIELDS,setup,categorize
+from cloud_store import account_sidebar,load,insert,import_csv,delete
 
 
 st.set_page_config(page_title='Personal Finance Analytics',page_icon='📊',layout='wide')
@@ -20,18 +21,19 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 ROOT=Path(__file__).parent
-DB=ROOT/'data'/'finance.db'
-
-if 'finance_connection' not in st.session_state:
-    local=DB.exists()
-    conn=sqlite3.connect(str(DB) if local else ':memory:',check_same_thread=False)
-    setup(conn)
-    st.session_state.finance_connection=conn
-    st.session_state.local_finance=local
-conn=st.session_state.finance_connection
 st.title('Personal Finance Analytics')
-st.caption('Income • Spending • Savings | Python · SQLite · Pandas · Matplotlib')
-if not st.session_state.local_finance: st.info('Demo workspace: isolated to this session. Changes are temporary. Use synthetic data only; do not upload private financial records.')
+st.caption('Income • Spending • Savings | Python · SQLite · PostgreSQL · Pandas · Matplotlib')
+cloud = account_sidebar()
+if cloud is not None:
+    conn = cloud
+    st.success('Personal workspace: transactions are saved to your account. Sign in again after a browser refresh to recover them.')
+else:
+    if 'finance_connection' not in st.session_state:
+        guest = sqlite3.connect(':memory:',check_same_thread=False)
+        setup(guest)
+        st.session_state.finance_connection = guest
+    conn = st.session_state.finance_connection
+    st.info('Guest demo: isolated to this session. Changes are temporary. Use synthetic data only.')
 if 'notice' in st.session_state: st.success(st.session_state.pop('notice'))
 
 def refresh(message):
@@ -51,6 +53,7 @@ with st.sidebar:
             if not desc.strip(): st.error('Description is required.')
             else:
                 with conn: insert(conn,(d.isoformat(),desc.strip(),categorize(desc,kind) if cat=='Auto detect' else cat,kind,amount,pay))
+                for key in ('start_filter','end_filter'): st.session_state.pop(key,None)
                 refresh('Transaction saved.')
     st.divider()
     st.header('CSV import')
@@ -58,6 +61,7 @@ with st.sidebar:
     if upload is not None and st.button('Import CSV'):
         try:
             a,b,c=import_csv(conn,pd.read_csv(upload))
+            for key in ('start_filter','end_filter'): st.session_state.pop(key,None)
             refresh(f'Imported: {a} | Invalid: {b} | Possible duplicates skipped: {c}')
         except Exception as e: st.error(f'Import failed: {e}')
     st.caption('Duplicate check uses date, description, type, amount and payment method. Identical legitimate payments may be flagged.')
@@ -77,8 +81,7 @@ with st.sidebar:
                 if not confirm:
                     st.error('Please tick the confirmation checkbox first.')
                 else:
-                    with conn:
-                        conn.execute('DELETE FROM transactions')
+                    delete(conn)
                     for k in ('start_filter','end_filter'):
                         st.session_state.pop(k,None)
                     refresh('All transactions cleared.')
@@ -141,8 +144,9 @@ with st.expander('Edit or delete a transaction'):
                 if not desc.strip(): st.error('Description is required.')
                 else:
                     with conn: insert(conn,(d.isoformat(),desc.strip(),cat,k,amt,pay),tid)
+                    for key in ('start_filter','end_filter'): st.session_state.pop(key,None)
                     refresh('Transaction updated.')
         confirm=st.checkbox('Confirm deletion',key=f'delete{tid}')
         if st.button('Delete transaction',disabled=not confirm):
-            with conn: conn.execute('DELETE FROM transactions WHERE transaction_id=?',(int(tid),))
+            delete(conn,tid)
             refresh('Transaction deleted.')
