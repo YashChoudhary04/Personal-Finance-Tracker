@@ -7,9 +7,21 @@ from matplotlib.ticker import FuncFormatter
 import streamlit as st
 from finance import CATEGORIES,PAYMENTS,FIELDS,setup,load,insert,import_csv,categorize
 
+
 st.set_page_config(page_title='Personal Finance Analytics',page_icon='📊',layout='wide')
+
+st.markdown("""
+<style>
+    [data-testid="stMetricValue"],
+    [data-testid="stMetricValue"] > div {
+        font-size: 24px !important;
+    }
+</style>
+""", unsafe_allow_html=True)
+
 ROOT=Path(__file__).parent
 DB=ROOT/'data'/'finance.db'
+
 if 'finance_connection' not in st.session_state:
     local=DB.exists()
     conn=sqlite3.connect(str(DB) if local else ':memory:',check_same_thread=False)
